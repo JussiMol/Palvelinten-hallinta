@@ -15,5 +15,5 @@
 - user.present/absent - voidaan tarkistaa käyttäjien olemassaolo.
 - cmd.run - voidaan ajaa ohjelmia.
 - Tee idempotentteja suoritteita. Ajetaan vain jos tarvitsee tehdä muutoksia.
-- Ohjeita sys.state_doc komennolla.
+- Ohjeita sys.state_doc komennolla.<br>
 (Tero Karvinen 2023. <a href="https://terokarvinen.com/2021/salt-run-command-locally/">Run Salt Command Locally</a>)
