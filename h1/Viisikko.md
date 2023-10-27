@@ -134,6 +134,7 @@ Itse ymmärrän idempotentin toimintona joka voi ajaa itsensä useita kertoja, m
 ![Description](micro.png)
 <br>
 Voidaan komentaa asentamaan ohjelma, jos se on jo asennettuna mitään ei tehdä koska muutoksia ei tarvitse tehdä. Tällä voidaan varmistaa myös että editori varmasti on ja pysyy koneella. <br>
+Succeeded 1 perässä ei ole (changed=1) joten komento ei ole tehnyt muutoksia. Mielestäni tämä on idempotentti tila. <br>
 ### d) Tietoja koneesta
 $ sudo salt-call --local grains.items <br>
 Hieman tutkailtua listaa sieltä löytyy joitain silmäänpistäviä kohtia. <br>
