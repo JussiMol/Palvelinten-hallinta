@@ -129,3 +129,29 @@ Skripti ajetaan onnistuneesti ja tuloste hello world näkyy. <br>
 Succeeded 1 (changed=1) <br>
 Tämän voi ajaa kuinka monta kertaa tahansa ja aina se sanoo succeeded 1 (changed=1) kyseessä ei ole idempotenssi tila. <br>
 ### c) Idempotentti
+Itse ymmärrän idempotentin toimintona joka voi ajaa itsensä useita kertoja, mutta se ei muuta tilaa tai vaikutus pysyy samana. <br>
+<br>
+![Description](micro.png)
+<br>
+Voidaan komentaa asentamaan ohjelma, jos se on jo asennettuna mitään ei tehdä koska muutoksia ei tarvitse tehdä. Tällä voidaan varmistaa myös että editori varmasti on ja pysyy koneella. <br>
+### d) Tietoja koneesta
+$ sudo salt-call --local grains.items <br>
+Hieman tutkailtua listaa sieltä löytyy joitain silmäänpistäviä kohtia. <br>
+<br>
+![Description](prossu.png)
+<br>
+Salt tunnistaa prosessorin mallin virtualisoinnin yli. <br>
+CWD = current working directory, tämän hetkinen hakemisto. <br>
+osfinger = kertoo käyttöjärjestelmän. <br>
+## Lähteet
+Tero Karvinen<br>
+Tehtävänanto Infra as Code 2023
+https://terokarvinen.com/2023/configuration-management-2023-autumn/
+Create a Web Page Using GitHub<br>
+https://terokarvinen.com/2023/create-a-web-page-using-github/
+Run Salt Command Locally
+https://terokarvinen.com/2021/salt-run-command-locally/
+Jussi Möltsi
+H1 raportti
+https://github.com/JussiMol/Linux-palvelimet/blob/d695d08d28af0854d2a7391a6ad9caa195325762/h1.md
+
