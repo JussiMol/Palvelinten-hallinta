@@ -20,7 +20,7 @@
 ### a) Salt minion asennus
 Käytän debian 12 virtuaalikonetta, virtuaalikoneen lisätiedot ja asennusohje minun raportista -> <a href="https://github.com/JussiMol/Linux-palvelimet/blob/d695d08d28af0854d2a7391a6ad9caa195325762/h1.md"> Linux-palvelimet H1 </a> <br>
 H1 Raportti toteutettu <a href="https://terokarvinen.com/2021/install-debian-on-virtualbox/">Tero Karvisen ohjeita</a> mukaillen. <br>
-Virtuaalikone ollut käyttämättömänä hetken joten. <br>
+Virtuaalikone ollut käyttämättömänä hetken joten päiviteen paketinhallinta. <br>
 $ sudo apt-get update<br>
 $ sudo apt-get upgrade <br>
 Salt minionin asennuksessa seurataan <a href="https://terokarvinen.com/2023/configuration-management-2023-autumn"/>Tehtäväsivun ohjetta </a> H1 osiota "Saltin asennus Debian 12" . <br>
