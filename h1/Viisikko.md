@@ -5,5 +5,5 @@
 - Tee tehtävät .md tiedostoihin.
 - Lisää kuvia.
 - Julkaise tekeleesi.<br>
-(Tero Karvinen 2023. https://terokarvinen.com/2023/create-a-web-page-using-github/)
+(Tero Karvinen 2023. <a href="https://terokarvinen.com/2023/create-a-web-page-using-github/">Create a Web Page Using GitHub</a>)
 ### 
