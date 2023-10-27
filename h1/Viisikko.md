@@ -18,4 +18,4 @@
 - Ohjeita sys.state_doc komennolla.<br>
 (Tero Karvinen 2023. <a href="https://terokarvinen.com/2021/salt-run-command-locally/">Run Salt Command Locally</a>
 ### a) Salt minion asennus
-Käytän debian 12 virtuaalikonetta, virtuaalikoneen lisätiedot ja asennusohje -> <a href="https://github.com/JussiMol/Linux-palvelimet/blob/d695d08d28af0854d2a7391a6ad9caa195325762/h1.md"> Linux-palvelimet H1 raportti </a>
+Käytän debian 12 virtuaalikonetta, virtuaalikoneen lisätiedot ja asennusohje minun raportista -> <a href="https://github.com/JussiMol/Linux-palvelimet/blob/d695d08d28af0854d2a7391a6ad9caa195325762/h1.md"> Linux-palvelimet H1 </a>
