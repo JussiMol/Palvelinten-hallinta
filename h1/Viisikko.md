@@ -118,4 +118,13 @@ Annetaan pentille kenkää <br>
 <br>
 ![Description](pentti.png)
 <br>
-Pentti ja pentti group removed. Poisto onnistui <br>
+Pentti ja pentti group removed. Poisto onnistui. <br>
+#### cmd.run
+Ajan kotihakemistostani hello_world scriptin.<br>
+$ sudo salt-call --local -l info state.single cmd.run /home/jussi/hello_world
+<br>
+![Description](skript.png)
+<br>
+Skripti ajetaan onnistuneesti ja tuloste hello world näkyy. <br>
+Succeeded 1 (changed=1) <br>
+Tämän voi ajaa kuinka monta kertaa tahansa ja aina se sanoo succeeded 1 (changed=1) kyseessä ei ole idempotenssi tila. <br>
