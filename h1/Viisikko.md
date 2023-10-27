@@ -145,13 +145,13 @@ CWD = current working directory, tämän hetkinen hakemisto. <br>
 osfinger = kertoo käyttöjärjestelmän. <br>
 ## Lähteet
 Tero Karvinen<br>
-Tehtävänanto Infra as Code 2023
-https://terokarvinen.com/2023/configuration-management-2023-autumn/
+Tehtävänanto Infra as Code 2023 <br>
+https://terokarvinen.com/2023/configuration-management-2023-autumn/<br>
 Create a Web Page Using GitHub<br>
-https://terokarvinen.com/2023/create-a-web-page-using-github/
-Run Salt Command Locally
-https://terokarvinen.com/2021/salt-run-command-locally/
-Jussi Möltsi
-H1 raportti
-https://github.com/JussiMol/Linux-palvelimet/blob/d695d08d28af0854d2a7391a6ad9caa195325762/h1.md
+https://terokarvinen.com/2023/create-a-web-page-using-github/<br>
+Run Salt Command Locally<br>
+https://terokarvinen.com/2021/salt-run-command-locally/<br>
+Jussi Möltsi<br>
+H1 raportti<br>
+https://github.com/JussiMol/Linux-palvelimet/blob/d695d08d28af0854d2a7391a6ad9caa195325762/h1.md<br>
 
