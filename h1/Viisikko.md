@@ -89,3 +89,33 @@ Kokeillaan poistaa se file.absent komennolla. <br>
 <br>
 $ ls ja tiedosto on poistunut kotihakemistosta. <br>
 #### service.running/dead
+Testataan ohjelmien komentoja Apache2:lla <br>
+Katsotaan mikä on alkutilanne $ sudo systemctl status apache2 - se on päällä (active)
+$ sudo salt-call --local -l info state.single service.running apache2 enable=True - testataan mitä komento sanoo kun Apache2 on jo päällä. <br>
+<br>
+![Description](apache2.png)
+<br>
+Already running, muutoksia ei tehty. <br>
+Sammutetaan palvelin $ sudo salt-call --local -l info state.single service.dead apache2 enable=False <br>
+<br>
+![Description](apache21.png)
+<br>
+INFO osioista huomataan heti, että salt ajaa enemmän komentoja juurihakemistossa. <br>
+Tappofunktion lopputulos = True <br>
+1 onnistunut tapahtuma ja muuttunut tila. <br>
+Testataan weppipalvelimen tila $ sudo systemctl status apache2 - inactive(dead) <br>
+Testaus selaimella - ei mitään elämää <br>
+service.running komennolla voisin sen laittaa päälle, mutta jätetään pysäytetyksi aiheuttamaan ihmetystä seuraavaa kertaa varten. <br>
+#### user.present/absent
+Testataan onko minun käyttäjä olemassa <br>
+$ sudo salt-call --local -l info state.single user.present jussi
+<br>
+![Description](jussi.png)
+<br>
+Onhan se <br>
+Siirryn juurihakemistoon ja katsotaan /home ja ls onko koneella muita käyttäjiä. Pentti löytyy.
+Annetaan pentille kenkää <br>
+<br>
+![Description](pentti.png)
+<br>
+Pentti ja pentti group removed. Poisto onnistui <br>
