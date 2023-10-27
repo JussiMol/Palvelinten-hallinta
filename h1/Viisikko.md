@@ -27,9 +27,42 @@ Salt minionin asennuksessa seurataan <a href="https://terokarvinen.com/2023/conf
 <br>
 ![Description](komennot.png)
 <br>
+<br>
 Ylemmän kuvan komentoja ymmärrän sen verran että, näillä komennoilla tuodaan Salt paketinhallintaan, päivitetään se ja asennetaan ohjelma. <br>
 Ajan kyseiset komennot. Keyrings tiedosto on jo olemassa ensimmäinen komento ei tee mitään. <br>
 Loput toimivat odotetusti ja testataan onko salt asennettuna $ sudo salt-call --version <br>
 <br>
 ![Description](versio.png)
+<br>
+Salt on asennettu onnistuneesti. <br>
+### b) Viisi tärkeintä
+Testataan onko micro teksti editori asennettuna virtuaalikoneella. <br>
+$ sudo salt-call --local -l info state.single pkg.installed micro <br>
+Odotan että tuloste sanoo ettei mikään ole muuttunut koneella ja että editori on asennettuna. <br>
+<br>
+![Description](micro.png)
+<br>
+Micro on olemassa.<br>
+Function kertoo minkälainen komento ajettiin. Tässä tapauksessa varmistettiin onko mahdollisesti ID:n mukainen ohjelma asennettuna. <br>
+True = tapahtuma on todellinen ja ohjelma asennettu.<br>
+Kaikki paketit asennettuna. <br>
+Aikaleima. <br>
+Kesto millisekunteina.<br>
+Tapahtuman suoritus on onnistunut (succeeded)<br>
+Total states run 1 = ajettiin paikallisesti niin tehtiin vain kerran. <br>
+Ajan vastakkaisen komennon ja muutan pkg.removed micro <br>
+<br>
+![Description](micro2.png)
+<br>
+pkg.removed - nyt poistettiin ohjelma <br>
+Micro old kohdassa on micro editorin versio mikä poistettiin <br>
+Succeeded (changed=1) nyt se kertoo että 1 tapahtuma onnistui - poistimme paikalliselta koneelta micro editorin.<br>
+Testataan onko Micro kadonnut koneelta. <br>
+Yritän avata microlla kotihakemistossa teksti tiedoston -> bash: micro: command not found <br>
+Micro on poistunut. <br>
+Asennan sen takaisin komennolla. $ sudo salt-call --local -l info state.single pkg.installed micro <br>
+Succeeded (changed=1) Asennus tapahtui? <br>
+Testataan onko micro palautunut koneelle. <br>
+<br>
+![Description](micro3.png)
 <br>
