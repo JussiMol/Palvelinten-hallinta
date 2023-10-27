@@ -64,8 +64,10 @@ Asennan sen takaisin komennolla. $ sudo salt-call --local -l info state.single p
 <br>
 ![Description](micro2.png)
 <br>
+Uusi versio ilmestyi. <br>
 Succeeded (changed=1) Asennus tapahtui? <br>
 Testataan onko micro palautunut koneelle. <br>
 <br>
 ![Description](micro3.png)
 <br>
+Micro on asennettu takaisin käyttämällä salt komentoja. <br>
