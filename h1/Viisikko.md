@@ -37,6 +37,7 @@ Loput toimivat odotetusti ja testataan onko salt asennettuna $ sudo salt-call --
 Salt on asennettu onnistuneesti. <br>
 ### b) Viisi tärkeintä
 Käytetään Tero Karvisen <a href="https://terokarvinen.com/2021/salt-run-command-locally/">ohjeita</a> ja testataan saltin paikallista toimintaa. <br>
+#### pkg.installed/removed
 Testataan onko micro teksti editori asennettuna virtuaalikoneella. <br>
 $ sudo salt-call --local -l info state.single pkg.installed micro <br>
 Odotan että tuloste sanoo ettei mikään ole muuttunut koneella ja että editori on asennettuna. <br>
@@ -72,3 +73,19 @@ Testataan onko micro palautunut koneelle. <br>
 ![Description](micro3.png)
 <br>
 Micro on asennettu takaisin käyttämällä salt komentoja. <br>
+#### file.managed/absent
+Testataan seuraavaksi tiedostojen hallintaa. <br>
+$ sudo salt-call --local -l info state.single file.managed /home/jussi/suolatesti.txt <br>
+<br>
+![Description](suolatesti.png)
+<br>
+INFO kohdat kertovat meille saltin toimintoja
+WARNING ilmoittaa ettei tiedostolle ole määritetty '' merkkien sisällä nimettyjä ominaisuuksia. <br>
+Komento on luonut meille oman kertomansa mukaan suolatesti.txt tiedoston. <br>
+$ ls ja kotihakemistosta todella löytyy suolatesti.txt tiedosto. <br>
+Kokeillaan poistaa se file.absent komennolla. <br>
+<br>
+![Description](suolatesti2.png)
+<br>
+$ ls ja tiedosto on poistunut kotihakemistosta. <br>
+#### service.running/dead
