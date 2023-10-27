@@ -42,7 +42,7 @@ Odotan että tuloste sanoo ettei mikään ole muuttunut koneella ja että editor
 <br>
 ![Description](micro.png)
 <br>
-Micro on olemassa.<br>
+ID = micro eli ohjelma mikä oli tapahtuman kohde.<br>
 Function kertoo minkälainen komento ajettiin. Tässä tapauksessa varmistettiin onko mahdollisesti ID:n mukainen ohjelma asennettuna. <br>
 True = tapahtuma on todellinen ja ohjelma asennettu.<br>
 Kaikki paketit asennettuna. <br>
