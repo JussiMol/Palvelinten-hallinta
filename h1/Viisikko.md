@@ -24,3 +24,4 @@ Virtuaalikone ollut käyttämättömänä hetken joten päiviteen paketinhallint
 $ sudo apt-get update<br>
 $ sudo apt-get upgrade <br>
 Salt minionin asennuksessa seurataan <a href="https://terokarvinen.com/2023/configuration-management-2023-autumn"/>Tehtäväsivun ohjetta </a> H1 osiota "Saltin asennus Debian 12" . <br>
+
