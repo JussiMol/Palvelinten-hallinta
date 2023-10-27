@@ -61,6 +61,9 @@ Testataan onko Micro kadonnut koneelta. <br>
 Yritän avata microlla kotihakemistossa teksti tiedoston -> bash: micro: command not found <br>
 Micro on poistunut. <br>
 Asennan sen takaisin komennolla. $ sudo salt-call --local -l info state.single pkg.installed micro <br>
+<br>
+![Description](micro2.png)
+<br>
 Succeeded (changed=1) Asennus tapahtui? <br>
 Testataan onko micro palautunut koneelle. <br>
 <br>
