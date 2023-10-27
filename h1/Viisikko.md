@@ -24,4 +24,12 @@ Virtuaalikone ollut käyttämättömänä hetken joten päiviteen paketinhallint
 $ sudo apt-get update<br>
 $ sudo apt-get upgrade <br>
 Salt minionin asennuksessa seurataan <a href="https://terokarvinen.com/2023/configuration-management-2023-autumn"/>Tehtäväsivun ohjetta </a> H1 osiota "Saltin asennus Debian 12" . <br>
-
+<br>
+![Description](komennot.png)
+<br>
+Ylemmän kuvan komentoja ymmärrän sen verran että, näillä komennoilla tuodaan Salt paketinhallintaan, päivitetään se ja asennetaan ohjelma. <br>
+Ajan kyseiset komennot. Keyrings tiedosto on jo olemassa ensimmäinen komento ei tee mitään. <br>
+Loput toimivat odotetusti ja testataan onko salt asennettuna $ sudo salt-call --version <br>
+<br>
+![Description](versio.png)
+<br>
