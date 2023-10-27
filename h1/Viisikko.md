@@ -128,3 +128,4 @@ $ sudo salt-call --local -l info state.single cmd.run /home/jussi/hello_world
 Skripti ajetaan onnistuneesti ja tuloste hello world näkyy. <br>
 Succeeded 1 (changed=1) <br>
 Tämän voi ajaa kuinka monta kertaa tahansa ja aina se sanoo succeeded 1 (changed=1) kyseessä ei ole idempotenssi tila. <br>
+### c) Idempotentti
