@@ -79,7 +79,7 @@ $ sudo salt-call --local -l info state.single file.managed /home/jussi/suolatest
 <br>
 ![Description](suolatesti.png)
 <br>
-INFO kohdat kertovat meille saltin toimintoja
+INFO kohdat kertovat meille saltin toimintoja<br>
 WARNING ilmoittaa ettei tiedostolle ole määritetty '' merkkien sisällä nimettyjä ominaisuuksia. <br>
 Komento on luonut meille oman kertomansa mukaan suolatesti.txt tiedoston. <br>
 $ ls ja kotihakemistosta todella löytyy suolatesti.txt tiedosto. <br>
@@ -90,7 +90,7 @@ Kokeillaan poistaa se file.absent komennolla. <br>
 $ ls ja tiedosto on poistunut kotihakemistosta. <br>
 #### service.running/dead
 Testataan ohjelmien komentoja Apache2:lla <br>
-Katsotaan mikä on alkutilanne $ sudo systemctl status apache2 - se on päällä (active)
+Katsotaan mikä on alkutilanne $ sudo systemctl status apache2 - se on päällä (active)<br>
 $ sudo salt-call --local -l info state.single service.running apache2 enable=True - testataan mitä komento sanoo kun Apache2 on jo päällä. <br>
 <br>
 ![Description](apache2.png)
@@ -108,12 +108,12 @@ Testaus selaimella - ei mitään elämää <br>
 service.running komennolla voisin sen laittaa päälle, mutta jätetään pysäytetyksi aiheuttamaan ihmetystä seuraavaa kertaa varten. <br>
 #### user.present/absent
 Testataan onko minun käyttäjä olemassa <br>
-$ sudo salt-call --local -l info state.single user.present jussi
+$ sudo salt-call --local -l info state.single user.present jussi<br>
 <br>
 ![Description](jussi.png)
 <br>
 Onhan se <br>
-Siirryn juurihakemistoon ja katsotaan /home ja ls onko koneella muita käyttäjiä. Pentti löytyy.
+Siirryn juurihakemistoon ja katsotaan /home ja ls onko koneella muita käyttäjiä. Pentti löytyy.<br>
 Annetaan pentille kenkää <br>
 <br>
 ![Description](pentti.png)
