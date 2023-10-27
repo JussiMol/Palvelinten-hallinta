@@ -52,7 +52,7 @@ Tapahtuman suoritus on onnistunut (succeeded)<br>
 Total states run 1 = ajettiin paikallisesti niin tehtiin vain kerran. <br>
 Ajan vastakkaisen komennon ja muutan pkg.removed micro <br>
 <br>
-![Description](micro2.png)
+![Description](micro21.png)
 <br>
 pkg.removed - nyt poistettiin ohjelma <br>
 Micro old kohdassa on micro editorin versio mikä poistettiin <br>
