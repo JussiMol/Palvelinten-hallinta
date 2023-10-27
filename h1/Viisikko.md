@@ -36,7 +36,7 @@ Loput toimivat odotetusti ja testataan onko salt asennettuna $ sudo salt-call --
 <br>
 Salt on asennettu onnistuneesti. <br>
 ### b) Viisi tärkeintä
-Käytetään Teron<a href="https://terokarvinen.com/2021/salt-run-command-locally/">ohjeita</a> ja testataan saltin paikallista toimintaa. <br>
+Käytetään Teron <a href="https://terokarvinen.com/2021/salt-run-command-locally/">ohjeita</a> ja testataan saltin paikallista toimintaa. <br>
 Testataan onko micro teksti editori asennettuna virtuaalikoneella. <br>
 $ sudo salt-call --local -l info state.single pkg.installed micro <br>
 Odotan että tuloste sanoo ettei mikään ole muuttunut koneella ja että editori on asennettuna. <br>
