@@ -5,7 +5,7 @@
 - Tee tehtävät .md tiedostoihin.
 - Lisää kuvia.
 - Julkaise tekeleesi.<br>
-(Tero Karvinen 2023. <a href="https://terokarvinen.com/2023/create-a-web-page-using-github/">Create a Web Page Using GitHub</a>
+(Tero Karvinen 2023. <a href="https://terokarvinen.com/2023/create-a-web-page-using-github/">Create a Web Page Using GitHub</a>)
 ### Salt komennot paikallisesti
 - Salt minion asennus komennot.
 - --local komennot ovat paikallisia komentoja joilla voidaan tarkistaa erilaisia asioita.
@@ -16,7 +16,7 @@
 - cmd.run - voidaan ajaa ohjelmia.
 - Tee idempotentteja suoritteita. Ajetaan vain jos tarvitsee tehdä muutoksia.
 - Ohjeita sys.state_doc komennolla.<br>
-(Tero Karvinen 2023. <a href="https://terokarvinen.com/2021/salt-run-command-locally/">Run Salt Command Locally</a>
+(Tero Karvinen 2023. <a href="https://terokarvinen.com/2021/salt-run-command-locally/">Run Salt Command Locally</a>)
 ### a) Salt minion asennus
 Käytän debian 12 virtuaalikonetta, virtuaalikoneen lisätiedot ja asennusohje minun raportista -> <a href="https://github.com/JussiMol/Linux-palvelimet/blob/d695d08d28af0854d2a7391a6ad9caa195325762/h1.md"> Linux-palvelimet H1 </a> <br>
 H1 Raportti toteutettu <a href="https://terokarvinen.com/2021/install-debian-on-virtualbox/">Tero Karvisen ohjeita</a> mukaillen. <br>
