@@ -9,7 +9,7 @@
 ### Salt komennot paikallisesti
 - Salt minion asennus komennot.
 - --local komennot ovat paikallisia komentoja joilla voidaan tarkistaa erilaisia asioita.
-- pkg.installed/removed - voidaan tarkistaa ohjelman asennus/poisto komennolla.
+- pkg.installed/removed - voidaan tarkistaa tai suorittaa ohjelman asennus/poisto komennolla.
 - file.managed/absent - voidaan tarkistaa tiedoston olemassaoloa.
 - service.running/dead - voidaan tarkistaa ohjelman toimivuutta.
 - user.present/absent - voidaan tarkistaa käyttäjien olemassaolo.
