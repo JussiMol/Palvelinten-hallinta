@@ -6,5 +6,5 @@
 - Päivitä paketinhallinta
 - Asenna Vagrant ja virtualbox
 - Määritä asennettava virtuaalikone (käyttöjärjestelmä) ja yhdistä ssh-yhteydellä.
-- Tuhoa 'vagrant destroy' käytön päätteeksi
+- Tuhoa 'vagrant destroy' käytön päätteeksi<br>
 (Tero Karvinen, <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/">Vagrant Revisited</a>)
