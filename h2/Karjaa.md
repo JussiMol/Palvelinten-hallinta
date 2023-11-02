@@ -41,7 +41,7 @@ Pyytää vielä käynnistämään koneen uudestaan, että kaikki määritykset t
 Avaan komentokehotteen ja ruvetaan kokeilemaan. <br>
 Testataan onko ohjelma olemassa <br>
 vagrant --version <br>
-Ohjelma on asennettu. Kokeillaan <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/">Vagrant Revisited</a>) ohjeita ja katsotaan mitä käy. <br>
+Ohjelma on asennettu. Kokeillaan <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/">Vagrant Revisited</a> ohjeita ja katsotaan mitä käy. <br>
 <br>
 ![Description](vagrantinit.png)
 <br>
