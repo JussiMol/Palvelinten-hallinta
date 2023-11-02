@@ -17,7 +17,7 @@
 - Orjia voi käskeä komennoilla.
 - Orjista voi kerätä tietoa.
 - Päämääränä idempotentti lopputila.
-- Orjille voidaan syöttää koodia ja ne toimivat sen perusteella.
+- Orjille voidaan syöttää koodia ja ne toimivat sen perusteella.<br>
 (Tero Karvinen, <a href="https://terokarvinen.com/2023/salt-vagrant/">Salt Vagrant - automatically provision one master and two slaves</a>)
 ### a) Vagrantin asennus
 Isäntäkoneella Windows 10 Home 64-bit<br>
