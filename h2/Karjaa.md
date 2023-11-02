@@ -40,9 +40,19 @@ Asennusohjelma tekee tehtävänsä ja asennus on valmis. <br>
 Pyytää vielä käynnistämään koneen uudestaan, että kaikki määritykset tulevat voimaan. <br>
 Avaan komentokehotteen ja ruvetaan kokeilemaan. <br>
 Testataan onko ohjelma olemassa <br>
-vagrant --version <br>
-Ohjelma on asennettu. Kokeillaan <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/">Vagrant Revisited</a> ohjeita ja katsotaan mitä käy. <br>
+vagrant --version Vagrant 2.4.0 <br>
+Ohjelma on asennettu.<br>
+### b) Yksi maankiertäjä.
+Kokeillaan <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/">Vagrant Revisited</a> ohjeita ja katsotaan mitä käy. <br>
 <br>
 ![Description](vagrantinit.png)
 <br>
 <br> 
+Okei ohjelma loi automaattisen Vagrantfilen, etsitään se alkuun. <br>
+Löytyi käyttäjän omasta hakemistosta, katsotaan sisältö. <br>
+<br>
+![Description](vagrantfile.png)
+<br>
+<br> 
+Loput tiedostosta on kommenttirivejä, jotka selittävät eri osien toimintaa ja ohjeita. <br>
+config.vm.box = "debian-12" Kokeillaan tapahtuuko vagrant up komennolla mitään. <br>
