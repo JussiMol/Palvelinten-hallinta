@@ -64,7 +64,7 @@ Eipä onnistunut. Etsitään ratkaisu. <a href="https://developer.hashicorp.com/
 Ohjeita seuraamalla pitäisi tehdä hakemisto johon sijoitetaan projekti ja vagrant init komento tekisi sinne valmiin Vagrantfilen. <br>
 ///Vagrantfile luodaan siihen hakemistoon, jossa olet kun ajat vagrant init komennon///<br>
 hashicorp/bionic64 on joku hashicorpin oma "box", joka löytyy pilvestä. <br>
-Kokeillaan omaa soveltamista. <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeista</a> ja omaa Vagrantfileä vertaamalla huomasin mikä itsellä taisi mennä vikaan. <br>
+Kokeillaan omaa soveltamista. <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeita</a> ja omaa Vagrantfileä vertaamalla huomasin mikä itsellä taisi mennä vikaan. <br>
 <br>
 ![Description](vagrantfile2.png)
 <br>
