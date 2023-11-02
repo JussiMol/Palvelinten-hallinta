@@ -18,6 +18,7 @@
 - Orjista voi kerätä tietoa.
 - Päämääränä idempotentti lopputila.
 - Orjille voidaan syöttää koodia ja ne toimivat sen perusteella.
+(Tero Karvinen, <a href="https://terokarvinen.com/2023/salt-vagrant/">Salt Vagrant - automatically provision one master and two slaves</a>)
 ### a) Vagrantin asennus
 Isäntäkoneella Windows 10 Home 64-bit<br>
 AMD Ryzen 5 5600X 6-Core prosessori <br>
