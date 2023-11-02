@@ -78,3 +78,12 @@ B tehtävä onnistui. exit komennolla ulos virtuaalikoneesta ja vagrant destroy 
 ### c) Oma orjansa
 Muokataan Vagrantfilen sisältöä. <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeista</a> jätän toisen t002 koneen pois, vaihdan bullseye64 -> bookworm64. Loppuihin en koske. <br>
 Katsotaan mitä tapahtuu - vagrant up <br>
+Komentokehoteesta poimittuja huomioita. <br>
+Molemmat koneet herra ja orja päivittävät suoraan asennuksessa paketinhallinnan. <br>
+t001: ssh address 127.0.0.1:2222 ja tmaster: ssh address 127.0.0.1:2200 <br>
+Matching MAC address for NAT networking. <br>
+Kokeillaan ottaa ssh yhteys herraan. vagrant ssh tmaster <br>
+Ja katsotaan onko avaimia jonossa hyväksyttäväksi. <br>
+<br>
+![Description](key.png)
+<br>
