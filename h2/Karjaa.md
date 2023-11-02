@@ -130,5 +130,4 @@ Ajan tappokäskyn ja kokeillaan tuleeko muutos. <br>
 ![Description](dead.png)
 <br>
 Tappokäsky succeeded ja tila (changed=1) <br>
-Ei vastaa curl kutsuihin. <br>
-Apache on pois päältä. <br>
+Ei vastaa curl kutsuihin. Apache on pois päältä. <br>
