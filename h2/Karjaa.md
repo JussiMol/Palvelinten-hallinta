@@ -31,12 +31,10 @@ Asennus tapahtuu järjestelmänhallitsijan oikeuksilla.<br>
 <br>
 ![Description](vagrant_asennus1.png)
 <br>
-<br>
 Asennusohjelma tekee tehtävänsä ja asennus on valmis. <br>
 <br>
 ![Description](vagrant_asennus2.png)
 <br>
-<br> 
 Pyytää vielä käynnistämään koneen uudestaan, että kaikki määritykset tulevat voimaan. <br>
 Avaan komentokehotteen ja ruvetaan kokeilemaan. <br>
 Testataan onko ohjelma olemassa <br>
@@ -47,19 +45,16 @@ Kokeillaan <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-instal
 <br>
 ![Description](vagrantinit.png)
 <br>
-<br> 
 Okei ohjelma loi automaattisen Vagrantfilen, etsitään se alkuun. <br>
 Löytyi käyttäjän omasta hakemistosta, katsotaan sisältö. <br>
 <br>
 ![Description](vagrantfile.png)
 <br>
-<br> 
 Loput tiedostosta on kommenttirivejä, jotka selittävät eri osien toimintaa ja ohjeita. <br>
 config.vm.box = "debian-12" Kokeillaan tapahtuuko vagrant up komennolla mitään. <br>
 <br>
 ![Description](failure.png)
 <br>
-<br> 
 Eipä onnistunut. Etsitään ratkaisu. <a href="https://developer.hashicorp.com/vagrant/tutorials/getting-started">Vagrant Quick start</a> <br>
 Ohjeita seuraamalla pitäisi tehdä hakemisto johon sijoitetaan projekti ja vagrant init komento tekisi sinne valmiin Vagrantfilen. <br>
 ///Vagrantfile luodaan siihen hakemistoon, jossa olet kun ajat vagrant init komennon///<br>
@@ -68,18 +63,15 @@ Kokeillaan omaa soveltamista. <a href="https://terokarvinen.com/2023/salt-vagran
 <br>
 ![Description](vagrantfile2.png)
 <br>
-<br> 
 Muutan "debian-12" -> "debian/bookworm" ja ajan uudestaan vagrant up. <br>
 Sama virheilmoitus kuin äsken nimet vain vaihtuivat.Teron ohjeissa lukee "bullseye64" ja omassa ei. Lisätään se ja uusi vagrant up ajo  <br>
 Noniin, nyt alkoi tapahtua. Komentokehotteen teksti liian pitkä kuvan ottamiseen. Tarkistetaan virtualboxista onko kone päällä. <br>
 <br>
 ![Description](virtualbox.png)
 <br>
-<br> 
 Ilmeisesti Vagrant hakee siltikin pilvestä tuon minun "boxin" <a href="https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=debian+bookworm">Discover Vagrant Boxes</a> sivulta löytyi alle kuukausi sitten tehty debian/bookworm64 boxi. <br>
 No testataan saadaanko koneeseen ssh yhteys. <br>
 <br>
 ![Description](ssh.png)
 <br>
-<br> 
 B tehtävä onnistui. <br>
