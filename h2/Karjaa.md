@@ -151,3 +151,17 @@ Käydään t002 koneella katsomassa onko /tmp/infra-as-code olemassa. <br>
 <br>
 Löytyy. Komento teki työtä käskettyä. <br>
 ## Lähteet
+### Tero Karvinen 
+Tehtävänanto - Infra as Code 2023 <br>
+https://terokarvinen.com/2023/configuration-management-2023-autumn/ <br>
+Vagrant Revisited – Install & Boot New Virtual Machine in 31 seconds <br>
+https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/ <br>
+Salt Vagrant - automatically provision one master and two slaves
+https://terokarvinen.com/2023/salt-vagrant/
+### StackExchange
+What is the definition of "cattle not pets"? <br>
+https://devops.stackexchange.com/questions/653/what-is-the-definition-of-cattle-not-pets#654 <br>
+### Hashicorp
+Vagrant tutorials
+https://developer.hashicorp.com/vagrant/tutorials/getting-started
+
