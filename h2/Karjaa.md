@@ -58,19 +58,19 @@ config.vm.box = "debian-12" Kokeillaan tapahtuuko vagrant up komennolla mitään
 Eipä onnistunut. Etsitään ratkaisu. <a href="https://developer.hashicorp.com/vagrant/tutorials/getting-started">Vagrant Quick start</a> <br>
 Ohjeita seuraamalla pitäisi tehdä hakemisto johon sijoitetaan projekti ja vagrant init komento tekisi sinne valmiin Vagrantfilen. <br>
 ///Vagrantfile luodaan siihen hakemistoon, jossa olet kun ajat vagrant init komennon///<br>
-hashicorp/bionic64 on joku hashicorpin oma "box", joka löytyy pilvestä. <br>
+Vagrant vaatii "boxin" toimiakseen. <br>
+ <br>
 Kokeillaan omaa soveltamista. <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeita</a> ja omaa Vagrantfileä vertaamalla huomasin mikä itsellä taisi mennä vikaan. <br>
 <br>
 ![Description](vagrantfile2.png)
 <br>
-Muutan "debian-12" -> "debian/bookworm" ja ajan uudestaan vagrant up. <br>
-Sama virheilmoitus kuin äsken nimet vain vaihtuivat. Teron ohjeissa lukee "bullseye64" ja omassa ei. Lisätään se ja uusi vagrant up ajo.  <br>
+Muutan "debian-12" -> "debian/bookworm64" ja ajan uudestaan vagrant up. <br>
 Noniin, nyt alkoi tapahtua. Komentokehotteen teksti liian pitkä kuvan ottamiseen. Tarkistetaan virtualboxista onko kone päällä. <br>
 <br>
 ![Description](virtualbox.png)
 <br>
-Ilmeisesti Vagrant hakee siltikin pilvestä tuon minun "boxin" <a href="https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=debian+bookworm">Discover Vagrant Boxes</a> sivulta löytyi alle kuukausi sitten tehty debian/bookworm64 boxi. <br>
-No testataan saadaanko koneeseen ssh yhteys. <br>
+Ilmeisesti Vagrant hakee pilvestä tuon minun "boxin" <a href="https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=debian+bookworm">Discover Vagrant Boxes</a> sivulta löytyi alle kuukausi sitten tehty debian/bookworm64 boxi. <br>
+Testataan saadaanko koneeseen ssh yhteys. <br>
 <br>
 ![Description](ssh.png)
 <br>
