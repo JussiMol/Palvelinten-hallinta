@@ -114,6 +114,7 @@ Ajetaan komento uudestaan ja todetaan idempotentti. <br>
 Tilat eivät muuttuneet toisella kerralla. <br>
 Asennetaan vain t001 koneelle apache2 ja testataan näkyykö verkkosivut.<br>
 $ sudo salt 't001' state.single pkg.installed apache2 <br>
+Jälleen tuloste liian pitkä näyttökaappausta varten. <br>
 Ohjelma asennettu? Succeeded: 1 (changed=1) <br>
 Kokeillaan ajaa komento uudestaan. <br>
 <br>
