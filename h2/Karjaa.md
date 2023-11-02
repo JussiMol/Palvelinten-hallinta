@@ -74,4 +74,5 @@ No testataan saadaanko koneeseen ssh yhteys. <br>
 <br>
 ![Description](ssh.png)
 <br>
-B tehtävä onnistui. <br>
+B tehtävä onnistui. exit komennolla ulos virtuaalikoneesta ja vagrant destroy komennolla sen poisto. <br>
+
