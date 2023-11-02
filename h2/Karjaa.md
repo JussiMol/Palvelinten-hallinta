@@ -64,7 +64,7 @@ Kokeillaan omaa soveltamista. <a href="https://terokarvinen.com/2023/salt-vagran
 ![Description](vagrantfile2.png)
 <br>
 Muutan "debian-12" -> "debian/bookworm" ja ajan uudestaan vagrant up. <br>
-Sama virheilmoitus kuin äsken nimet vain vaihtuivat.Teron ohjeissa lukee "bullseye64" ja omassa ei. Lisätään se ja uusi vagrant up ajo  <br>
+Sama virheilmoitus kuin äsken nimet vain vaihtuivat. Teron ohjeissa lukee "bullseye64" ja omassa ei. Lisätään se ja uusi vagrant up ajo  <br>
 Noniin, nyt alkoi tapahtua. Komentokehotteen teksti liian pitkä kuvan ottamiseen. Tarkistetaan virtualboxista onko kone päällä. <br>
 <br>
 ![Description](virtualbox.png)
