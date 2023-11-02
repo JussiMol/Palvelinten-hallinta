@@ -40,7 +40,7 @@ Avaan komentokehotteen ja ruvetaan kokeilemaan. <br>
 Testataan onko ohjelma olemassa <br>
 vagrant --version Vagrant 2.4.0 <br>
 Ohjelma on asennettu.<br>
-### b) Yksi maankiertäjä.
+### b) Yksi maankiertäjä
 Kokeillaan <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/">Vagrant Revisited</a> ohjeita ja katsotaan mitä käy. <br>
 <br>
 ![Description](vagrantinit.png)
@@ -75,4 +75,5 @@ No testataan saadaanko koneeseen ssh yhteys. <br>
 ![Description](ssh.png)
 <br>
 B tehtävä onnistui. exit komennolla ulos virtuaalikoneesta ja vagrant destroy komennolla sen poisto. <br>
-
+### c) Oma orjansa
+Muokataan Vagrantfilen sisältöä. 
