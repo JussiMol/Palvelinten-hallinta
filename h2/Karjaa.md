@@ -64,7 +64,7 @@ Kokeillaan omaa soveltamista. <a href="https://terokarvinen.com/2023/salt-vagran
 <br>
 ![Description](vagrantfile2.png)
 <br>
-Muutan "debian-12" -> "debian/bookworm64" ja ajan uudestaan vagrant up. <br>
+Muutan "debian-12" -> "debian/bookworm64" ja ajan uudestaan vagrant up. (Tämä oli vain oivallus kokeilla debian/bookworm64) <br>
 Noniin, nyt alkoi tapahtua. Komentokehotteen teksti liian pitkä kuvan ottamiseen. Tarkistetaan virtualboxista onko kone päällä. <br>
 <br>
 ![Description](virtualbox.png)
