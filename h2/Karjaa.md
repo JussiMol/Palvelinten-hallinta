@@ -164,4 +164,5 @@ https://devops.stackexchange.com/questions/653/what-is-the-definition-of-cattle-
 ### Hashicorp
 Vagrant tutorials
 https://developer.hashicorp.com/vagrant/tutorials/getting-started
-
+Discover Vagrant Boxes
+https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=debian+bookworm
