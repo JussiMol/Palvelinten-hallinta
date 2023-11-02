@@ -118,4 +118,17 @@ Kokeillaan ajaa komento uudestaan. <br>
 ![Description](apache2.png)
 <br>
 Ei muutoksia. <br>
-Testataan onko apache2 päällä. $ 
+Testataan onko apache2 päällä. Otetaan esille t001 ipv4 osoitteet. <br>
+$ sudo salt 't001' grains.item ipv4 <br>
+$ curl -s 192.168.12.100 <br>
+Apache on päällä. <br>
+<br>
+![Description](curl.png)
+<br>
+Ajan tappokäskyn ja kokeillaan tuleeko muutos. <br>
+<br>
+![Description](dead.png)
+<br>
+Tappokäsky succeeded ja tila (changed=1) <br>
+Ei vastaa curl kutsuihin. <br>
+Apache on pois päältä. <br>
