@@ -36,3 +36,4 @@ Asennusohjelma tekee tehtävänsä ja asennus on valmis. <br>
 ![Description](vagrant_asennus2.png)
 <br>
 <br> 
+Pyytää vielä käynnistämään koneen uudestaan, että kaikki määritykset tulevat voimaan. <br>
