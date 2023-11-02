@@ -45,7 +45,7 @@ Kokeillaan <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-instal
 <br>
 ![Description](vagrantinit.png)
 <br>
-Okei ohjelma loi automaattisen Vagrantfilen, etsitään se alkuun. <br>
+Okei ohjelma loi automaattisen Vagrantfilen, etsitään se näin alkuun. <br>
 Löytyi käyttäjän omasta hakemistosta, katsotaan sisältö. <br>
 <br>
 ![Description](vagrantfile.png)
