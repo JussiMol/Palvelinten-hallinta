@@ -76,8 +76,10 @@ Noniin, nyt alkoi tapahtua. Komentokehotteen teksti liian pitkä kuvan ottamisee
 ![Description](virtualbox.png)
 <br>
 <br> 
-Ilmeisesti Vagrant hakee siltikin pilvestä tuon minun "boxin" <a href="https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=debian+bookworm">Discover Vagrant Boxes</a> 
+Ilmeisesti Vagrant hakee siltikin pilvestä tuon minun "boxin" <a href="https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=debian+bookworm">Discover Vagrant Boxes</a> sivulta löytyi alle kuukausi sitten tehty debian/bookworm64 boxi. <br>
+No testataan saadaanko koneeseen ssh yhteys. <br>
 <br>
 ![Description](ssh.png)
 <br>
 <br> 
+B tehtävä onnistui. <br>
