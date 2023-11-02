@@ -69,3 +69,15 @@ Kokeillaan omaa soveltamista. <a href="https://terokarvinen.com/2023/salt-vagran
 ![Description](vagrantfile2.png)
 <br>
 <br> 
+Muutan "debian-12" -> "debian/bookworm" ja ajan uudestaan vagrant up. <br>
+Sama virheilmoitus kuin äsken nimet vain vaihtuivat.Teron ohjeissa lukee "bullseye64" ja omassa ei. Lisätään se ja uusi vagrant up ajo  <br>
+Noniin, nyt alkoi tapahtua. Komentokehotteen teksti liian pitkä kuvan ottamiseen. Tarkistetaan virtualboxista onko kone päällä. <br>
+<br>
+![Description](virtualbox.png)
+<br>
+<br> 
+Ilmeisesti Vagrant hakee siltikin pilvestä tuon minun "boxin" <a href="https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=debian+bookworm">Discover Vagrant Boxes</a> 
+<br>
+![Description](ssh.png)
+<br>
+<br> 
