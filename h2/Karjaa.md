@@ -92,4 +92,5 @@ Kokeilen $ sudo salt 't001' grains.items ja lista tulostuu. <br>
 <br>
 ![Description](orja.png)
 <br>
-Jostain tuntemattomasta syystä käytetään debian 11 bullseye. <br>
+Jostain tuntemattomasta syystä käytetään debian 11 bullseye.  <br>
+Tätä asiaa ei tarvinnut kauaa miettiä, copy-pasten jälkeen tallensin Vagrantfile version josta oli poistettu t002, mutta ei muutettu config.vm.box osiota. <br>
