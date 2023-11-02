@@ -38,3 +38,6 @@ Asennusohjelma tekee tehtävänsä ja asennus on valmis. <br>
 <br>
 <br> 
 Pyytää vielä käynnistämään koneen uudestaan, että kaikki määritykset tulevat voimaan. <br>
+Avaan komentokehotteen ja ruvetaan kokeilemaan. <br>
+Testataan onko ohjelma olemassa <br>
+    vagrant --version
