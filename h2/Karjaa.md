@@ -131,3 +131,21 @@ Ajan tappokäskyn ja kokeillaan tuleeko muutos. <br>
 <br>
 Tappokäsky succeeded ja tila (changed=1) <br>
 Ei vastaa curl kutsuihin. Apache on pois päältä. <br>
+Kokeillaan tehdä orjakoneille uudet hakemistot herran käskyllä. <br>
+<br>
+![Description](testikansio.png)
+<br>
+Jotain tapahtui, käydään t001 katsomassa onko hakemisto luotu. <br>
+<br>
+![Description](t001.png)
+<br>
+Ilmestyihän se. <br>
+Testataan infraa koodina. Kokeilen <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeista</a> suoraan /srv/salt/hello/init.sls esimerkkiä.<br>
+<br>
+![Description](infra.png)
+<br>
+No sehän vaan toimii ja on vielä idempotentti komento. <br>
+Käydään t002 koneella katsomassa onko /tmp/infra-as-code olemassa. <br>
+<br>
+![Description](tmp.png)
+<br>
