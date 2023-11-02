@@ -149,3 +149,5 @@ Käydään t002 koneella katsomassa onko /tmp/infra-as-code olemassa. <br>
 <br>
 ![Description](tmp.png)
 <br>
+Löytyy. Komento teki työtä käskettyä. <br>
+## Lähteet
