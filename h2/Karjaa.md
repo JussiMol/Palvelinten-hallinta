@@ -115,4 +115,7 @@ Tilat eivät muuttuneet toisella kerralla. <br>
 Asennetaan vain t001 koneelle apache2 ja testataan näkyykö verkkosivut.<br>
 $ sudo salt 't001' state.single pkg.installed apache2 <br>
 Ohjelma asennettu? Succeeded: 1 (changed=1) <br>
-
+Kokeillaan ajaa komento uudestaan. <br>
+<br>
+![Description](apache2.png)
+<br>
