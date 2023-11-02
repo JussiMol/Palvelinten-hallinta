@@ -87,3 +87,9 @@ Ja katsotaan onko avaimia jonossa hyväksyttäväksi. (Jos on hyväksytään) ja
 <br>
 ![Description](testi.png)
 <br>
+Teen pienen lisätestin, koska ei ole täyttä varmuutta mitä virtuaalikoneet pitävät sisällään. <br>
+Kokeilen $ sudo salt 't001' grains.items ja lista tulostuu. <br>
+<br>
+![Description](orja.png)
+<br>
+Jostain tuntemattomasta syystä käytetään debian 11 bullseye. <br>
