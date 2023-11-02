@@ -30,7 +30,9 @@ Asennus tapahtuu järjestelmänhallitsijan oikeuksilla.<br>
 <br>
 ![Description](vagrant_asennus1.png)
 <br>
+<br>
 Asennusohjelma tekee tehtävänsä ja asennus on valmis. <br>
 <br>
 ![Description](vagrant_asennus2.png)
+<br>
 <br>
