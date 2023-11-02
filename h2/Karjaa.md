@@ -60,5 +60,5 @@ config.vm.box = "debian-12" Kokeillaan tapahtuuko vagrant up komennolla mitään
 ![Description](failure.png)
 <br>
 <br> 
-Eipä onnistunut. Etsitään ratkaisu. <br>
+Eipä onnistunut. Etsitään ratkaisu. <a href="https://developer.hashicorp.com/vagrant/tutorials/getting-started">Vagrant Quick start</a> <br>
 
