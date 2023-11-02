@@ -83,7 +83,7 @@ Molemmat koneet herra ja orja päivittävät suoraan asennuksessa paketinhallinn
 t001: ssh address 127.0.0.1:2222 ja tmaster: ssh address 127.0.0.1:2200 <br>
 Matching MAC address for NAT networking. <br>
 Kokeillaan ottaa ssh yhteys herraan. vagrant ssh tmaster <br>
-Ja katsotaan onko avaimia jonossa hyväksyttäväksi. <br>
+Ja katsotaan onko avaimia jonossa hyväksyttäväksi. (Jos on hyväksytään) ja suoritetaan pingi testi. <br>
 <br>
-![Description](key.png)
+![Description](testi.png)
 <br>
