@@ -21,7 +21,7 @@
 ### a) Vagrantin asennus
 - Isäntäkoneella Windows 10 Home 64-bit
 - AMD Ryzen 5 5600X 6-Core prosessori
-- 16 GB RAM
+- 16 GB RAM<br>
 Vagrant lataus sivulta https://developer.hashicorp.com/vagrant/downloads Windows AMD64 Versio 2.4.0 <br>
 Latauksen jälkeen ihan varmuudeksi skannaan Windows Defenderillä ladatun asennusohjelman.<br>
 Ei uhkia, 183913 tiedostoa tarkistettiin. <br>
