@@ -94,6 +94,25 @@ Kokeilen $ sudo salt 't001' grains.items ja lista tulostuu. <br>
 <br>
 Jostain tuntemattomasta syystä käytetään debian 11 bullseye.  <br>
 Tätä asiaa ei tarvinnut kauaa miettiä, copy-pasten jälkeen tallensin Vagrantfile version josta oli poistettu t002, mutta ei muutettu config.vm.box osiota. <br>
-
-
+### Verkossa
+Ymmärtääkseni tässä täytyy ajaa <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeista</a> kaikki kolme konetta master, t001 ja t002 sekä suorittaa niillä eri komentoja. <br>
+Ajetaan tiedosto - vagrant up. <br>
+ssh yhteydellä tmasterille. <br>
+Koneiden pystytyksen jälkeen hyväksyn avaimet. $ sudo salt-key -A <br>
+Kerätään kyselyllä tietoja koneilta. $ sudo salt '*' grains.item mem_total osfinger host
+<br>
+![Description](tiedot.png)
+<br>
+Muistin perusteella aika heppoinen kone. 461Mb. <br>
+Ajetaan sitten molemmille koneille idempotentteja komentoja. <br>
+Asennetaan aluksi microt molemmille orjille. $ sudo salt '*' single.state pkg.installed micro. <br>
+Orjat tekee työtä käskettyä. <br>
+Ajetaan komento uudestaan ja todetaan idempotentti. <br>
+<br>
+![Description](tiedot.png)
+<br>
+Tilat eivät muuttuneet toisella kerralla. <br>
+Asennetaan vain t001 koneelle apache2 ja testataan näkyykö verkkosivut.<br>
+$ sudo salt 't001' state.single pkg.installed apache2 <br>
+Ohjelma asennettu? Succeeded: 1 (changed=1) <br>
 
