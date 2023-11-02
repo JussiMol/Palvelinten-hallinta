@@ -56,3 +56,9 @@ Löytyi käyttäjän omasta hakemistosta, katsotaan sisältö. <br>
 <br> 
 Loput tiedostosta on kommenttirivejä, jotka selittävät eri osien toimintaa ja ohjeita. <br>
 config.vm.box = "debian-12" Kokeillaan tapahtuuko vagrant up komennolla mitään. <br>
+<br>
+![Description](failure.png)
+<br>
+<br> 
+Eipä onnistunut. Etsitään ratkaisu. <br>
+
