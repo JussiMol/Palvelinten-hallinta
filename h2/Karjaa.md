@@ -27,4 +27,10 @@ Latauksen jälkeen ihan varmuudeksi skannaan Windows Defenderillä ladatun asenn
 Ei uhkia, 183913 tiedostoa tarkistettiin. <br>
 Asennusohjelma pyytää hyväksymään käyttöehdot ja lisenssin.<br>
 Asennus tapahtuu järjestelmänhallitsijan oikeuksilla.<br>
+<br>
+![Description](vagrant_asennus1.png)
+<br>
 Asennusohjelma tekee tehtävänsä ja asennus on valmis. <br>
+<br>
+![Description](vagrant_asennus2.png)
+<br>
