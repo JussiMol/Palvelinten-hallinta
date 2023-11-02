@@ -156,7 +156,7 @@ Tehtävänanto - Infra as Code 2023 <br>
 https://terokarvinen.com/2023/configuration-management-2023-autumn/ <br>
 Vagrant Revisited – Install & Boot New Virtual Machine in 31 seconds <br>
 https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/ <br>
-Salt Vagrant - automatically provision one master and two slaves
+Salt Vagrant - automatically provision one master and two slaves <br>
 https://terokarvinen.com/2023/salt-vagrant/
 ### StackExchange
 What is the definition of "cattle not pets"? <br>
