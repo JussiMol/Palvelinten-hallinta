@@ -77,7 +77,7 @@ Testataan saadaanko koneeseen ssh yhteys. <br>
 ![Description](ssh.png)
 <br>
 B tehtävä onnistui. exit komennolla ulos virtuaalikoneesta ja vagrant destroy komennolla sen poisto. <br>
-### c) Oma orjansa
+### c) Herra ja orja samalla koneella
 Käytetään Vagrantfilen sisältöä. <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeista</a>, vaihdan bullseye64 -> bookworm64. Loppuihin en koske. <br>
 Katsotaan mitä tapahtuu - vagrant up <br>
 Koneet lähtevät komentokehotteen perusteella rakentumaan. Liian pitkä tuloste, että siitä saisi järkeviä kuvia. <br>
