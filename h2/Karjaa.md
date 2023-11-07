@@ -80,7 +80,8 @@ Käytetään Vagrantfilen sisältöä. <a href="https://terokarvinen.com/2023/sa
 Katsotaan mitä tapahtuu - vagrant up <br>
 Koneet lähtevät komentokehotteen perusteella rakentumaan. Liian pitkä tuloste, että siitä saisi hyviä kuvia. <br>
 Kokeillaan ottaa ssh yhteys herraan - vagrant ssh tmaster <br>
-Ja katsotaan onko avaimia jonossa hyväksyttäväksi. (Jos on hyväksytään) ja suoritetaan pingi testi. <br>
+Ja katsotaan onko avaimia jonossa hyväksyttäväksi. $ sudo salt-key -A (Jos on hyväksytään) ja suoritetaan pingi testi. <br>
+$ sudo salt-key -A = Salt stackin komentorivityökalu joka hakee varmennettavia avaimia. <a href="https://docs.saltproject.io/en/latest/ref/cli/salt-key.html">salt-key manual</a>
 <br>
 ![Description](testi.png)
 <br>
