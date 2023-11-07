@@ -76,10 +76,9 @@ Testataan saadaanko koneeseen ssh yhteys. <br>
 <br>
 B tehtävä onnistui. exit komennolla ulos virtuaalikoneesta ja vagrant destroy komennolla sen poisto. <br>
 ### c) Oma orjansa
-***Jälkikäteen rupesin miettimään että onko tämä nyt oikein sittenkään?*** <br>
 Muokataan Vagrantfilen sisältöä. <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeista</a> jätän toisen t002 koneen pois, vaihdan bullseye64 -> bookworm64. Loppuihin en koske. <br>
 Katsotaan mitä tapahtuu - vagrant up <br>
-Koneet lähtevät komentokehotteen perusteella rakentumaan. Liian nopeaan muuttuva tuloste, että siitä saisi hyviä kuvia. <br>
+Koneet lähtevät komentokehotteen perusteella rakentumaan. Liian pitkä tuloste, että siitä saisi hyviä kuvia. <br>
 Kokeillaan ottaa ssh yhteys herraan - vagrant ssh tmaster <br>
 Ja katsotaan onko avaimia jonossa hyväksyttäväksi. (Jos on hyväksytään) ja suoritetaan pingi testi. <br>
 <br>
