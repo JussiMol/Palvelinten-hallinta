@@ -44,6 +44,7 @@ Ohjelma on asennettu.<br>
 Kokeillaan <a href="https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/">Vagrant Revisited</a> ohjeita ja katsotaan mitä käy. <br>
 <br>
 Komento vagrant init debian-12 <br>
+<br>
 ![Description](vagrantinit.png)
 <br>
 Okei ohjelma loi automaattisen Vagrantfilen, etsitään se näin alkuun. <br>
