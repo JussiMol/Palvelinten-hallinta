@@ -93,7 +93,7 @@ Kokeilen $ sudo salt 't001' grains.items ja lista tulostuu. <br>
 ![Description](orja.png)
 <br>
 Jostain tuntemattomasta syystä käytetään debian 11 bullseye.  <br>
-Tätä asiaa ei tarvinnut kauaa miettiä, copy-pasten jälkeen tallensin Vagrantfile version josta oli poistettu t002, mutta ei muutettu config.vm.box osiota. <br>
+Tätä asiaa ei tarvinnut kauaa miettiä, Vagrantfileä en päivittänyt boxin vaihdon jälkeen niin vagrant ajoi debian/bullseye64 version tiedostosta. <br>
 ### Verkossa
 Jatketaan  <a href="https://terokarvinen.com/2023/salt-vagrant/">Teron ohjeilla</a> luoduilla virtuaalikoneilla tmaster, t001 ja t002 sekä suoritetaan niillä eri komentoja. <br>
 ssh yhteydellä tmasterille. <br>
