@@ -66,3 +66,14 @@ Katsotaan käyttäjän tiedot. Mikäli ymmärsin <a href="https://stackoverflow.
 ![Description](conffi.png)
 <br>
 Näyttäisi olevan "oikeat" tiedot. <br>
+***Tämä tehtävänanto päättyy nyt koronan takia tähän. Lisäilen vapaaehtoiset mahdollisesti myöhemmin***
+### Lähteet
+Tehtävänanto <br>
+https://terokarvinen.com/2023/configuration-management-2023-autumn/ h3 <br>
+Tero Karvinen <br>
+Git commands<br>
+https://github.com/joshnh/Git-Commands<br>
+Joshua Hibbert<br>
+How to know the git username and email saved during configuration?<br>
+https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration <br>
+Stackoverflow<br>
