@@ -48,5 +48,5 @@ Tiedosto lisätty onnistuneesti. <br>
 Kissa käveli näppäimistöllä ja onnistui tekemään muutoksia testitiedostoon ja lisäämään sen $ git add testi.md komennolla. <br>
 Perutaan muutokset ja katsotaan korjautuiko tilanne. <br>
 <br>
-![Description](uusi.png)
+![Description](kissa.png)
 <br>
