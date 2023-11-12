@@ -65,4 +65,4 @@ Katsotaan käyttäjän tiedot. Mikäli ymmärsin <a href="https://stackoverflow.
 <br>
 ![Description](conffi.png)
 <br>
-Heitin vielä lisätestiksi tuon --list komennon se ilmeisesti kertoo kaikki 
+Näyttäisi olevan "oikeat" tiedot. <br>
