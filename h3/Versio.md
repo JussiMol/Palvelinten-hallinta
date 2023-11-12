@@ -6,6 +6,11 @@ Your Repositories sivulta painetaan vihreää painiketta New ja syötetään rep
 <br>
 Create Repository ja osio valmis. <br>
 ### b) Dolly
+Teen osion osittain ulkomuistista ja ohjeita käytän kun tulee ongelmia.<br>
+Katsotaan onko git valmiiksi jo asennettuna. <br>
+<br>
+![Description](git.png)
+<br>
 Kloonaus linux terminaalista. <br>
 <br>
 ![Description](finger.png)
@@ -26,3 +31,5 @@ Kokeillaan kloonausta uudelleen. <br>
 ![Description](clone.png)
 <br>
 Ilmeisesti onnistui, testataan saadaanko tehtyä muutoksia. <br>
+Kotihakemistoon ilmestyi Versiotesti hakemisto. Siirryn sinne ja kokeilen git pull. Everything up to date. <br> 
+Teen testitiedoston.  <br>
