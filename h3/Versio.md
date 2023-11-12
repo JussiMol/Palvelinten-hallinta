@@ -44,3 +44,9 @@ Tarkistetaan tuliko webbiliittymään mitään. <br>
 ![Description](uusi.png)
 <br>
 Tiedosto lisätty onnistuneesti. <br>
+### c) Doh!
+Kissa käveli näppäimistöllä ja onnistui tekemään muutoksia testitiedostoon ja lisäämään sen $ git add testi.md komennolla. <br>
+Perutaan muutokset ja katsotaan korjautuiko tilanne. <br>
+<br>
+![Description](uusi.png)
+<br>
