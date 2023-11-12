@@ -60,3 +60,5 @@ Kuvassa logista otettu kaappaus. Siitä voidaan nähdä kuka on tehnyt muutoksia
 < jussi@localhost.localdomain > osasta voidaan nähdä mistä muutoksia on tehty (SSH-yhteys) <br>
 "uusi tiedosto" on commit -m kommentti joka olisi suotavaa olla englanniksi. <br>
 Kommentin alapuolisista tiedoista ei ole täyttä varmuutta, muuta kuin new file (uusi tiedosto) <br>
++ merkin jälkeen on nähtävillä lisäykset. <br>
+Katsotaan käyttäjän tiedot. Mikäli https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration
