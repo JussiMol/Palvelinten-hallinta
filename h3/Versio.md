@@ -61,4 +61,4 @@ Kuvassa logista otettu kaappaus. Siitä voidaan nähdä kuka on tehnyt muutoksia
 "uusi tiedosto" on commit -m kommentti joka olisi suotavaa olla englanniksi. <br>
 Kommentin alapuolisista tiedoista ei ole täyttä varmuutta, muuta kuin new file (uusi tiedosto) <br>
 + merkin jälkeen on nähtävillä lisäykset. <br>
-Katsotaan käyttäjän tiedot. Mikäli https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration <a href="https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration" config kysymyksen ja vastauksen </a> oikein
+Katsotaan käyttäjän tiedot. Mikäli <a href="https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration"> config kysymyksen ja vastauksen </a> oikein
