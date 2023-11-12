@@ -57,5 +57,5 @@ $ git log --patch
 ![Description](logi.png)
 <br>
 Kuvassa logista otettu kaappaus. Siitä voidaan nähdä kuka on tehnyt muutoksia ja milloin.<br>
-< jussi@localhost.localdomain > osasta voidaan nähdä mistä muutoksia on tehty (SSH-yhteys)
-
+< jussi@localhost.localdomain > osasta voidaan nähdä mistä muutoksia on tehty (SSH-yhteys) <br>
+"uusi tiedosto" on commit -m kommentti joka olisi suotavaa olla englanniksi. <br>
