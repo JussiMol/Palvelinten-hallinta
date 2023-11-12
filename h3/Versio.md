@@ -56,4 +56,6 @@ $ git log --patch
 <br>
 ![Description](logi.png)
 <br>
-Kuvassa logista otettu kaappaus. Siitä voidaan nähdä kuka on tehnyt muutoksia ja milloin. 
+Kuvassa logista otettu kaappaus. Siitä voidaan nähdä kuka on tehnyt muutoksia ja milloin.<br>
+< jussi@localhost.localdomain > osasta voidaan nähdä mistä muutoksia on tehty (SSH-yhteys)
+
