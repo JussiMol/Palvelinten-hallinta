@@ -31,5 +31,15 @@ Kokeillaan kloonausta uudelleen. <br>
 ![Description](clone.png)
 <br>
 Ilmeisesti onnistui, testataan saadaanko tehtyä muutoksia. <br>
+Käytän tässä muistin virkistämiseen https://github.com/joshnh/Git-Commands listan komentoja. <br>
 Kotihakemistoon ilmestyi Versiotesti hakemisto. Siirryn sinne ja kokeilen git pull. Everything up to date. <br> 
-Teen testitiedoston.  <br>
+Teen testitiedoston. Tiedoston lisääminen $ git add testi.md ja perään git commit -m "uusi tiedosto" <br>
+Sen jälkeen voidaan puskea tiedosto pilveen. $ git push <br>
+<br>
+![Description](commit.png)
+<br>
+Kuvassa on commit komennon kohdalla kommentti jota ei tarvitse noteerata, ajoin komennot uudestaan nätimpää kuvaa varten. <br>
+Tarkistetaan tuliko webbiliittymään mitään. <br>
+<br>
+![Description](uusi.png)
+<br>
