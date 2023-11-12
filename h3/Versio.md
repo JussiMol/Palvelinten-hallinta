@@ -56,4 +56,4 @@ $ git log --patch
 <br>
 ![Description](logi.png)
 <br>
-Kuvassa logista otettu 
+Kuvassa logista otettu kaappaus. Siitä voidaan nähdä kuka on tehnyt muutoksia ja milloin. 
