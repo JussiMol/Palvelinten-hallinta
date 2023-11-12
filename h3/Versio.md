@@ -38,7 +38,7 @@ Sen jälkeen voidaan puskea tiedosto pilveen. $ git push <br>
 <br>
 ![Description](commit.png)
 <br>
-Kuvassa on commit komennon kohdalla kommentti jota ei tarvitse noteerata, ajoin komennot uudestaan nätimpää kuvaa varten. <br>
+Kuvassa on commit komennon alla kommentti jota ei tarvitse noteerata, ajoin komennot uudestaan nätimpää kuvaa varten. <br>
 Tarkistetaan tuliko webbiliittymään mitään. <br>
 <br>
 ![Description](uusi.png)
