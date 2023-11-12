@@ -50,3 +50,10 @@ Perutaan muutokset $ git reset --hard komennolla (muistakaa ne välilyönnit) ja
 <br>
 ![Description](kissa.png)
 <br>
+Onnistui. <br>
+### d) Tukki
+$ git log --patch
+<br>
+![Description](logi.png)
+<br>
+Kuvassa logista otettu 
