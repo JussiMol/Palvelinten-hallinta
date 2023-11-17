@@ -102,3 +102,4 @@ Molemmilla koneilla Succeeded: 2(changed=2) tarkistetaan mitä curlaamalla mitä
 ![Description](curl2.png)
 <br>
 Apachen asennus onnistui ja uuden sivun luonti siinä samassa. <br>
+### d) SShouto
