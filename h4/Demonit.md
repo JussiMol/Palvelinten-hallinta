@@ -143,6 +143,8 @@ https://terokarvinen.com/2023/configuration-management-2023-autumn/<br>
 https://terokarvinen.com/2023/salt-vagrant/#infra-as-code---your-wishes-as-a-text-file<br>
 ### Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port
 https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh<br>
+### Apache User Homepages Automatically – Salt Package-File-Service Example
+https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/?fromSearch=salt%20file <br>
 ## Salt Project <br>
 ### Salt overview - Salt user guide
 https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html#rules-of-yaml
