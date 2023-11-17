@@ -39,5 +39,7 @@ Tiedostot näyttävät siltä ettei ne päivity muutosten tekemisen yhteydessä.
 Artikkelissa on sshd tilan rakenne sekä määritystiedoston sisältö. <br>
 (Tero Karvinen, Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port) <br>
 ## a) Hello SLS!
-Aloitan käynnistämällä herran ja 2 orjaa vagrantilla. <br>
+Aloitan luomalla vagrantilla herran ja kaksi orjaa. Ympäristön luomisen jälkeen ssh yhteydellä herralle.<br>
+Hyväksyn avaimet 'sudo salt-key -A'. Testaan kuuleeko orjat 'sudo salt '*' test.ping' . <br>
+Orjat vastaavat. <br>
 
