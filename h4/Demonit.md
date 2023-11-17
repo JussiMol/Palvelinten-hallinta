@@ -46,7 +46,7 @@ Orjat vastaavat.
 <br>
 
 Seuraan <a href="https://terokarvinen.com/2023/salt-vagrant/#infra-as-code---your-wishes-as-a-text-file"> Teron ohjeita </a> init.sls ja top.sls tiedostojen luomisessa. <br>
-Luon komennolla 'mkdir -p /srv/salt/hello' hakemiston. (-p = luo puuttuvat ylähakemistot samalla) <br>
+Luon komennolla 'mkdir -p /srv/salt/hello' hakemiston. (-p = luo puuttuvat ylähakemistot samalla(parent directory)) <br>
 <br>
 ![Description](init.png)
 <br>
