@@ -109,4 +109,5 @@ Molemmilla koneilla Succeeded: 2(changed=2) tarkistetaan mitä curlaamalla mitä
 ![Description](curl2.png)
 <br>
 Apachen asennus onnistui ja uuden sivun luonti siinä samassa. <br>
+Osiossa hyödynsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules">Saltin ohjetta </a>  sekä <a href="https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/?fromSearch=salt%20file">Teron ohjetta </a>
 ### d) SShouto
