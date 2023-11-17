@@ -113,6 +113,7 @@ Osiossa hyödynsin <a href="https://docs.saltproject.io/salt/user-guide/en/lates
 ### d) SShouto
 Aiemmin käytössä ollut virtuaalikone. Salt master ja minion on valmiiksi asennettuna. <br>
 Varmuudeksi ajan uudelleenkäynnistyksen. 'sudo systemctl restart salt-master' ja 'sudo systemctl restart salt-minion' <br>
+Tarkistetaan onko herralla hyväksytty avain. <br>
 <br>
 ![Description](key.png)
 <br>
