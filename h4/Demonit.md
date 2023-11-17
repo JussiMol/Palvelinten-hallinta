@@ -65,3 +65,7 @@ Kokeillaan top.sls tiedoston toimintaa. <br>
 <br>
 Tällä tiedostolla määritellään kaikille orjille ajettavaksi tila nimeltä "hello". <br>
 Kokeillaan uudestaan ajaa tila 'sudo salt '*' state.apply'
+<br>
+![Description](top2.png)
+<br>
+Sama tila ajettiin uudestaan onnistuneesti, ei muutoksia. <br>
