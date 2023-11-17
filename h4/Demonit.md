@@ -136,13 +136,14 @@ Komennossa käytetään nc (netcat) työkalua ja -v lisää tulosteeseen enemmä
 localhost on haettava "ip-osoite" ja portti 8888 <br>
 Demoni vastaa joten ilmeisesti onnistunut tilatiedosto. <br>
 ### Lähteet
+## Tero Karvinen <br>
 ### Tehtävänanto
 https://terokarvinen.com/2023/configuration-management-2023-autumn/<br>
 ### Salt Vagrant - automatically provision one master and two slaves
 https://terokarvinen.com/2023/salt-vagrant/#infra-as-code---your-wishes-as-a-text-file<br>
 ### Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port
 https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh<br>
-### Tero Karvinen <br>
+## Salt Project <br>
 ### Salt overview - Salt user guide
 https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html#rules-of-yaml
 ### Salt Project <br>
