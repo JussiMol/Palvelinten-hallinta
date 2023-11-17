@@ -89,6 +89,7 @@ Poistettu onnistuneesti. <br>
 Sitten kokeillaan automatisoida. (olen aiemmin jo tehnyt itse sivuja apachelle ja käynnistellyt/sulkenut sitä.) <br>
 Mikäli nyt tulkitsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#create-the-apache-state">Salt state ohjeita </a> oikein niin voin herra koneelle tehdä /srv/salt/apache2/index.html ja käyttää sitä tilatiedostossa määrittelemään minkälainen sivu tehdään. <br>
 Teen uuden sivun ja uuden init.sls tiedoston hakemistoon /srv/salt/apache2. <br>
+<br>
 Tilatiedostossa on määriteltynä apache2 asennus. <br>
 /var/www/html/index.html määritellään file.managed moduulilla. <br>
 name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään name kohdan tiedostopolussa. <br>
