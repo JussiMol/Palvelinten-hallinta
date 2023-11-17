@@ -1,4 +1,5 @@
 # Demonit
+Tehtävänanto H4 demonit https://terokarvinen.com/2023/configuration-management-2023-autumn/
 ## x) Tiivistelmät
 ### Salt vagrant
 init.sls tiedosto sisältää käskyt toteutettaville tiloille.<br>
@@ -38,8 +39,22 @@ Tiedostot näyttävät siltä ettei ne päivity muutosten tekemisen yhteydessä.
 ### Pkg-File-Service
 Artikkelissa on sshd tilan rakenne sekä määritystiedoston sisältö. <br>
 (Tero Karvinen, Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port) <br>
-## a) Hello SLS!
+## a,b) Hello SLS! Top
 Aloitan luomalla vagrantilla herran ja kaksi orjaa. Ympäristön luomisen jälkeen ssh yhteydellä herralle.<br>
 Hyväksyn avaimet 'sudo salt-key -A'. Testaan kuuleeko orjat 'sudo salt '*' test.ping' . <br>
 Orjat vastaavat. <br>
-
+Seuraan 
+Luon komennolla mkdir -p /srv/salt/hello hakemiston. (-p = luo puuttuvat ylähakemistot samalla) 
+<br>
+![Description](luonti.png)
+<br>
+tilatiedostolla luodaan hello-world niminen tiedosto orjille. Testataan toiminta. <br>
+<br>
+![Description](hello.png)
+<br>
+Orjat väittää luoneensa tiedoston, käydään tarkistamassa tilanne. <br>
+<br>
+![Description](tmp.png)
+<br>
+Tiedostot on luotu, tilatiedosto toimi halutusti. <br>
+Kokeillaan top.sls tiedoston toimintaa. <br>
