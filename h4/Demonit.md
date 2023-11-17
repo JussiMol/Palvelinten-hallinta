@@ -121,11 +121,12 @@ Seurataan <a href="https://terokarvinen.com/2018/04/03/pkg-file-service-control-
 Käytän artikkelin tietoja omissa tiedostoissa. <br>
 /srv/salt/ hakemistoon sshd.sls ja sshd_conf tiedostot ja lähdetään kokeilemaan. <br>
 Seuraava askel vaatii netcatin, asennetaan se 'sudo apt-get install netcat' <br>
-Ei halua asentaa suoraan. Antaa tekstin -> <br>
+Ei halua asentaa suoraan. Antaa tekstin -> <br> <br>
 Package netcat is a virtual package provided by: <br>
 netcat-openbsd 1.219-1 <br>
 netcat-traditional 1.10-47 <br>
 You should explicitly select one to install. <br>
+<br>
 Kokeillaan 'sudo apt-get install netcat-openbsd' <br>
 Netcat asentuu, kokeillaan ottaa yhteys localhostiin asetustiedostossa määritettyssä 8888 portissa. <br>
 <br>
