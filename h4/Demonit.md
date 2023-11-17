@@ -92,6 +92,7 @@ Teen uuden sivun ja uuden init.sls tiedoston hakemistoon /srv/salt/apache2. <br>
 <br>
 ![Description](cat.png)
 <br>
+*** kokeilin kerran ajaa ja se ei onnistunut, yksi välilyönti oli liikaa ennen file.managed: kohtaa.***
 Kokeillaan ajaa tilatiedosto ja toivotaan parasta. <br>
 <br>
 ![Description](apply.png)
