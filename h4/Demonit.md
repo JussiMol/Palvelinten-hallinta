@@ -69,3 +69,22 @@ Kokeillaan uudestaan ajaa tila 'sudo salt '*' state.apply'
 ![Description](top2.png)
 <br>
 Sama tila ajettiin uudestaan onnistuneesti, ei muutoksia. <br>
+### c) Apache
+Ajan herralla komennon 'sudo salt 't001' state.single pkg.installed apache2' tämä komento käskee orjaa asentamaan apache2 paketit. <br>
+<br>
+![Description](apache2.png)
+<br>
+Pitkä litania uusia muutoksia ja alhaalla lukee succeeded (changed=1), katsotaan onko asentunut ja mennyt päälle. <br>
+Kysytään ip-tiedot orjilta ' sudo salt '*' cmd.run 'hostname -I' ' <br>
+t001 192.168.12.100 <br>
+Kokeillaan curlata t001 osoitetta.<br>
+<br>
+![Description](grep.png)
+<br>
+Apache2 on asennettuna ja päällä koneella. <br>
+Poistetaan ja testataan että apache poistui. <br>
+'sudo salt 't001' state.single pkg.removed apache2' (changed=1) <br>
+curlilla testi -> connection refused. <br>
+Poistettu onnistuneesti. <br>
+Sitten kokeillaan automatisoida. (olen aiemmin jo tehnyt itse sivuja apachelle ja käynnistellyt uudelleen palvelua) <br>
+Mikäli nyt tulkitsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#create-the-apache-state">ohjeita </a> oikein
