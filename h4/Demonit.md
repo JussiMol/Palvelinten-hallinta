@@ -18,6 +18,7 @@ Kirjasto on kokoelma kahta edellä mainittua. <br>
 YAML on jaettu lohkorakenteisiin.<br>
 Sisennys asettaa kontekstin. SINUN ON sisennettävä ominaisuudet ja listasi. Kaksi välilyöntiä on standardi.<br>
 Kokoelma, joka voi olla lista tai sanakirja-lohkosarja, osoitetaan jokainen merkinnällä yhdysviiva ja välilyönti.
+(Salt project, salt user guide)
 ### Salt states
 #### State modules
 Tila moduuleilla määritetään mitä halutaan suorittaa ajettavalla koneella.<br>
