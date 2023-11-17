@@ -118,3 +118,19 @@ Varmuudeksi ajan uudelleenkäynnistyksen. 'sudo systemctl restart salt-master' j
 <br>
 Avain on hyväksytty, voidaan olettaa herra-orja suhde olevan olemassa. <br>
 Seurataan <a href="https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh">Teron artikkelia </a> ja katsotaan saadaanko tehtyä sshd määritys. <br>
+Käytän artikkelin tietoja omissa tiedostoissa. <br>
+/srv/salt/ hakemistoon sshd.sls ja sshd_conf tiedostot ja lähdetään kokeilemaan. <br>
+Seuraava askel vaatii netcatin, asennetaan se 'sudo apt-get install netcat' <br>
+Ei halua asentaa suoraan. Antaa tekstin -> <br>
+Package netcat is a virtual package provided by:
+  netcat-openbsd 1.219-1
+  netcat-traditional 1.10-47
+You should explicitly select one to install.
+Kokeillaan 'sudo apt-get install netcat-openbsd' <br>
+Netcat asentuu, kokeillaan ottaa yhteys localhostiin asetustiedostossa määritettyssä 8888 portissa. <br>
+<br>
+![Description](netcat.png)
+<br>
+<p>
+Komennossa käytetään nc (netcat) työkalua ja -v lisää tulosteeseen enemmän tietoa (verbose mode) ja -z vain kuunnellaan avoimia portteja eikä lähetetä mitään. (netcat man sivut (man nc)) localhost on haettava "ip-osoite" ja portti 8888</p>
+Demoni vastaa joten ilmeisesti onnistunut tilatiedosto. <br>
