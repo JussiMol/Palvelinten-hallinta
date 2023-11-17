@@ -97,7 +97,7 @@ Kokeillaan uudestaan ajaa tilatiedosto ja toivotaan parasta. <br>
 <br>
 ![Description](apply.png)
 <br>
-(changed=2) tarkistetaan mitä curlaamalla mitä käy. <br>
+Molemmilla koneilla Succeeded 2 (changed=2) tarkistetaan mitä curlaamalla mitä käy. <br>
 <br>
 ![Description](curl2.png)
 <br>
