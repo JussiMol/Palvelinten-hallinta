@@ -117,7 +117,7 @@ Varmuudeksi ajan uudelleenkäynnistyksen. 'sudo systemctl restart salt-master' j
 ![Description](key.png)
 <br>
 Avain on hyväksytty, voidaan olettaa herra-orja suhde olevan olemassa. <br>
-Seurataan <a href="https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh">Teron artikkelia </a> ja katsotaan saadaanko tehtyä sshd määritys. <br>
+Seurataan <a href="https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh">Teron Change SSH Server Port </a> artikkelia ja katsotaan saadaanko tehtyä sshd määritys. <br>
 Käytän artikkelin tietoja omissa tiedostoissa. <br>
 /srv/salt/ hakemistoon sshd.sls ja sshd_conf tiedostot ja lähdetään kokeilemaan. <br>
 Seuraava askel vaatii netcatin, asennetaan se 'sudo apt-get install netcat' <br>
