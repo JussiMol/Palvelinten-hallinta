@@ -44,7 +44,7 @@ Aloitan luomalla vagrantilla herran ja kaksi orjaa. Ympäristön luomisen jälke
 Hyväksyn avaimet 'sudo salt-key -A'. Testaan kuuleeko orjat 'sudo salt '*' test.ping' . <br>
 Orjat vastaavat. <br>
 Seuraan <a href="https://terokarvinen.com/2023/salt-vagrant/#infra-as-code---your-wishes-as-a-text-file"> Teron ohjeita </a> init.sls ja top.sls tiedostojen luomisessa. <br>
-Luon komennolla mkdir -p /srv/salt/hello hakemiston. (-p = luo puuttuvat ylähakemistot samalla) 
+Luon komennolla mkdir -p /srv/salt/hello hakemiston. (-p = luo puuttuvat ylähakemistot samalla) <br>
 <br>
 ![Description](luonti.png)
 <br>
@@ -58,3 +58,8 @@ Orjat väittää luoneensa tiedoston, käydään tarkistamassa tilanne. <br>
 <br>
 Tiedostot on luotu, tilatiedosto toimi halutusti. <br>
 Kokeillaan top.sls tiedoston toimintaa. <br>
+<br>
+![Description](top.png)
+<br>
+Tällä tiedostolla määritellään kaikille orjille ajettavaksi tila nimeltä "hello". <br>
+Kokeillaan uudestaan ajaa tila 'sudo salt '*' state.apply'
