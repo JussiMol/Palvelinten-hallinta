@@ -111,3 +111,10 @@ Molemmilla koneilla Succeeded: 2(changed=2) tarkistetaan mitä curlaamalla mitä
 Apachen asennus onnistui ja uuden sivun luonti siinä samassa. <br>
 Osiossa hyödynsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules">Saltin ohjetta </a>  sekä <a href="https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/?fromSearch=salt%20file">Teron ohjetta </a> Apachen kotisivujen luomiseen tilatiedostolla. Package-file-service esimerkki. <br>
 ### d) SShouto
+Aiemmin käytössä ollut virtuaalikone. Salt master ja minion on valmiiksi asennettuna. <br>
+Varmuudeksi ajan uudelleenkäynnistyksen. 'sudo systemctl restart salt-master' ja 'sudo systemctl restart salt-minion' <br>
+<br>
+![Description](key.png)
+<br>
+Avain on hyväksytty, voidaan olettaa herra-orja suhde olevan olemassa. <br>
+Seurataan <a href="https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh">Teron artikkelia </a> ja katsotaan saadaanko tehtyä sshd määritys. <br>
