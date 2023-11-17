@@ -43,7 +43,7 @@ Artikkelissa on sshd tilan rakenne sekä määritystiedoston sisältö. <br>
 Aloitan luomalla vagrantilla herran ja kaksi orjaa. Ympäristön luomisen jälkeen ssh yhteydellä herralle.<br>
 Hyväksyn avaimet 'sudo salt-key -A'. Testaan kuuleeko orjat 'sudo salt '*' test.ping' . <br>
 Orjat vastaavat. <br>
-Seuraan 
+Seuraan <a href="https://terokarvinen.com/2023/salt-vagrant/#infra-as-code---your-wishes-as-a-text-file"> Teron ohjeita </a> init.sls ja top.sls tiedostojen luomisessa. <br>
 Luon komennolla mkdir -p /srv/salt/hello hakemiston. (-p = luo puuttuvat ylähakemistot samalla) 
 <br>
 ![Description](luonti.png)
