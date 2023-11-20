@@ -134,7 +134,7 @@ Netcat asentuu, kokeillaan ottaa yhteys localhostiin asetustiedostossa määrite
 <br>
 ![Description](netcat.png)
 <br>
-Komennossa käytetään nc (netcat) työkalua ja -v lisää tulosteeseen enemmän tietoa (verbose mode) ja -z vain kuunnellaan avoimia portteja eikä lähetetä mitään. (netcat man sivut (man nc))<br> 
+Komennossa käytetään nc (netcat) työkalua ja -v lisää tulosteeseen enemmän tietoa (verbose mode) ja -z vain kuunnellaan avoimia portteja eikä lähetetä mitään. (netcat man sivut ('man nc'))<br> 
 localhost on haettava "ip-osoite" ja portti 8888 <br>
 Demoni vastaa joten ilmeisesti onnistunut tilatiedosto. <br>
 ### Lähteet
