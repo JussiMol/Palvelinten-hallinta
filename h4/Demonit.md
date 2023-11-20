@@ -69,6 +69,7 @@ Kokeillaan uudestaan ajaa tila 'sudo salt '*' state.apply'
 ![Description](top2.png)
 <br>
 Sama tila ajettiin uudestaan onnistuneesti, ei muutoksia. <br>
+Succeeded: 1 (ei ole changed tekstiä perässä)
 ### c) Apache
 Ajan herralla komennon 'sudo salt 't001' state.single pkg.installed apache2' tämä komento käskee orjaa asentamaan apache2 paketit. <br>
 <br>
