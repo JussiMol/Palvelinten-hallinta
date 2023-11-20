@@ -112,7 +112,7 @@ Molemmilla koneilla Succeeded: 2(changed=2) tarkistetaan mitä curlaamalla mitä
 Apachen asennus onnistui ja uuden sivun luonti siinä samassa. <br>
 Osiossa hyödynsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules">Saltin ohjetta </a>  sekä <a href="https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/?fromSearch=salt%20file">Teron ohjetta </a> Apachen kotisivujen luomiseen tilatiedostolla. Package-file-service esimerkki. <br>
 ### d) SShouto
-Aiemmin käytössä ollut virtuaalikone. Salt master ja minion on valmiiksi asennettuna. <br>
+Aiemmin käytössä ollut virtuaalikone. Salt master ja minion on varmasti valmiiksi asennettuna. <br>
 Varmuudeksi ajan uudelleenkäynnistyksen. 'sudo systemctl restart salt-master' ja 'sudo systemctl restart salt-minion' <br>
 Tarkistetaan onko herralla hyväksytty avain. <br>
 <br>
