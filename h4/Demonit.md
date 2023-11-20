@@ -140,7 +140,7 @@ Demoni vastaa joten ilmeisesti onnistunut tilatiedosto. <br>
 ### Lähteet
 ## Tero Karvinen <br>
 ### Tehtävänanto
-https://terokarvinen.com/2023/configuration-management-2023-autumn/<br>
+https://terokarvinen.com/2023/configuration-management-2023-autumn/#h4-demonit<br>
 ### Salt Vagrant - automatically provision one master and two slaves
 https://terokarvinen.com/2023/salt-vagrant/#infra-as-code---your-wishes-as-a-text-file<br>
 ### Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port
