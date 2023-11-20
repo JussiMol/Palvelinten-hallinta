@@ -87,7 +87,7 @@ Poistetaan ja testataan että apache poistui. <br>
 'sudo salt 't001' state.single pkg.removed apache2' (changed=1) <br>
 curlilla testi -> connection refused. <br>
 Poistettu onnistuneesti. <br>
-Sitten kokeillaan automatisoida. (olen aiemmin jo tehnyt itse sivuja apachelle ja käynnistellyt/sulkenut sitä.) <br>
+Sitten kokeillaan automatisoida. (olen aiemmin jo tehnyt itse sivuja apachelle sekä kokeillut sen toimintaa tilatiedostoilla.) <br>
 Mikäli nyt tulkitsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#create-the-apache-state">Salt state ohjeita </a> oikein niin voin herra koneelle tehdä /srv/salt/apache2/index.html ja käyttää sitä tilatiedostossa määrittelemään minkälainen sivu tehdään. <br>
 Teen uuden sivun ja uuden init.sls tiedoston hakemistoon /srv/salt/apache2. <br>
 <br>
