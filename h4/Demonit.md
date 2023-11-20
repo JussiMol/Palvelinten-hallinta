@@ -100,7 +100,7 @@ name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään na
 ![Description](cat.png)
 <br>
 ***Ylempi kuva on korjattu versio init.sls tiedostosta.*** <br>
-Kokeilin kerran ajaa ja se ei onnistunut, yksi välilyönti oli liikaa ennen file.managed: kohtaa. <br>
+Kokeilin kerran ajaa tilan ja se ei onnistunut, yksi välilyönti oli liikaa ennen file.managed: kohtaa. Nopea korjaus. <br>
 Kokeillaan uudestaan ajaa tilatiedosto ja toivotaan parasta. <br>
 <br>
 ![Description](apply.png)
