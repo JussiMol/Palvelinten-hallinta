@@ -26,3 +26,4 @@ Ylimmäisenä nähdään minun muokkaus minion tiedostoon.  <br>
 <br>
 ![Description](find.png)
 <br>
+The time is given in the current timezone (man find) Aikaleimoja tarkastellessa täytyy olla tarkkana. <br>
