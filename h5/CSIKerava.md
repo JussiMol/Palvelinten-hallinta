@@ -8,3 +8,4 @@
 - Jos jokin ei toimi saattaa joutua tarkistamaan hakemistojen ja tiedostojen oikeudet.
 ### a) CSI Kerava
 Nyt ollaan tekemisissä työkalun kanssa, jota en ole käyttänyt kertaakaan. Aloitan selaamalla manuaalisivuja ja selaamalla nettiä. <br>
+<a href="https://www.tecmint.com/35-practical-examples-of-linux-find-command/">35 esimerkkiä</a> find komennosta, näistä sai käsitystä miten tuota komentoa tulisi kasata.
