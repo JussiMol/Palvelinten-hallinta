@@ -28,7 +28,7 @@ Ylimmäisenä nähdään minun muokkaus minion tiedostoon.  <br>
 <br>
 The time is given in the current timezone (man find) Aikaleimoja tarkastellessa täytyy olla tarkkana. <br>
 Kokeillaan sama setti mutta ilman /etc/ osaa ja ollaan kotihakemistossa. Jos komento toimii kuten luulen niin se toimii myös tällä tavalla. <br>
-Teen nopeaan testitiedoston findia varten. <br>
+Teen nopeaan testitiedoston findia varten noin kello 13.07. <br>
 <br>
 ![Description](find2.png)
 <br>
