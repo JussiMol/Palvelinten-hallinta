@@ -32,3 +32,4 @@ Teen nopeaan testitiedoston findia varten. <br>
 <br>
 ![Description](find2.png)
 <br>
+Toimiihan se. ./ on /etc/ tai /home/ tilalla kertomassa että komento ajettiin tämänhetkisessä hakemistossa. Tiedostokin on nähtävissä.<br>
