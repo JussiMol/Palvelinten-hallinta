@@ -7,3 +7,4 @@
 - Tiedostojen käyttö on luotettavampaa kuin shell komentojen ajaminen.
 - Jos jokin ei toimi saattaa joutua tarkistamaan hakemistojen ja tiedostojen oikeudet.
 ### a) CSI Kerava
+Nyt ollaan tekemisissä työkalun kanssa, jota en ole käyttänyt kertaakaan. Aloitan selaamalla manuaalisivuja ja selaamalla nettiä. <br>
