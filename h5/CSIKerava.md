@@ -21,6 +21,7 @@ $ sudo find /etc/ -printf '%T+ %p\n' | sort -r | head
 - \n = newline - rivinvaihto
 - sort -r = lajittelee tulokset tulokset aikajärjestyksessä käänteisesti (uusin ylimpänä)
 - head = näyttää uusimmat 10 riviä <br>
+
 <br>
 ![Description](find.png)
 <br>
