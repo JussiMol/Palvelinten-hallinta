@@ -1,5 +1,5 @@
 #H5 CSI Kerava
-Tehtävänanto. https://terokarvinen.com/2023/configuration-management-2023-autumn--h5-CSI-KERAVA/
+Tehtävänanto. https://terokarvinen.com/2023/configuration-management-2023-autumn#h5-CSI-KERAVA/
 ### x) Tiivistelmä
 #### Apache User Homepages Automatically – Salt Package-File-Service Example
 - Tee ensin käsin, automatisoi vasta sen jälkeen.
