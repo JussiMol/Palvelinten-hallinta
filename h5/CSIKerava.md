@@ -23,7 +23,6 @@ $ sudo find /etc/ -printf '%T+ %p\n' | sort -r | head
 - head = näyttää uusimmat 10 riviä
 
 Ylimmäisenä nähdään minun muokkaus minion tiedostoon. <br>
-
 <br>
 ![Description](find.png)
 <br>
