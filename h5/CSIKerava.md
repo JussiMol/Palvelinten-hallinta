@@ -52,7 +52,7 @@ find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 ![Description](home.png)
 <br>
 ### c) Komennus
-
+### d) Apassi
 
 
 
