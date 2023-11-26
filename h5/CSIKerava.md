@@ -76,7 +76,8 @@ Näyttökaappaus alusta ja lopusta. <br>
 <br>
 ![Description](uusi.png)
 <br>
-Succeeded: 1(changed=1) tarkistetaan mitä curlaamalla mitä käy. <br>
+**Testasin ajaa aluksi tilan pelkällä apachen asennuksella siksi näyttää vain changed 1**
+Succeeded: 2 (changed=1) tarkistetaan mitä curlaamalla mitä käy. <br>
 Asennan curlin paketinhallinnasta ja tarkistan vagrantfilestä ip:n orjalle, katsotaan vastaako.<br>
 <br>
 ![Description](curl.png)
