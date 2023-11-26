@@ -55,6 +55,12 @@ find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 Käytän seuraavissa tehtävissä tmaster, t001 ja t002 ympäristöä. <br>
 
 ### d) Apassi
+Luon seuraavan hakemiston /srv/salt/apache2. <br>
+/srv/salt luon top.sls tiedoston. <br>
+Tehdään sinne init.sls tiedosto
+<br>
+![Description](top.png)
+<br>
 Tilatiedostossa on määriteltynä apache2 asennus. <br>
 /var/www/html/index.html määritellään file.managed moduulilla. <br>
 name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään name kohdan tiedostopolussa. <br>
