@@ -52,6 +52,8 @@ find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 ![Description](home.png)
 <br>
 ### c) Komennus
+Käytän seuraavissa tehtävissä tmaster, t001 ja t002 ympäristöä. <br>
+
 ### d) Apassi
 Tilatiedostossa on määriteltynä apache2 asennus. <br>
 /var/www/html/index.html määritellään file.managed moduulilla. <br>
