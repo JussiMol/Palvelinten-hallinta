@@ -72,7 +72,6 @@ Kokeillaan ajaa tilatiedosto. <br>
 <br>
 ![Description](apache.png)
 <br>
-
 <br>
 ![Description](uusi.png)
 <br>
