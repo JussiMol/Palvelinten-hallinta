@@ -45,7 +45,7 @@ Oletan että konffitiedosto löytyy kotihakemistosta. <br>
 <br>
 ![Description](audio.png)
 <br>
-Tämä näyttäisi olevan sama tiedosto. Grepillä sai lyhennettyä tulostetta, enable audio boolean arvo näyttäisi olevan false. <br>
+Tämä näyttäisi olevan oikea tiedosto. Grepillä sai lyhennettyä tulostetta, enable audio boolean arvo näyttäisi olevan false. <br>
 Voisin olettaa että oikea tiedosto paikannettu. <br>
 find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 <br>
