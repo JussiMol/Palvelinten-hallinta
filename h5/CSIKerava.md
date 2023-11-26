@@ -57,7 +57,9 @@ Tilatiedostossa on määriteltynä apache2 asennus. <br>
 /var/www/html/index.html määritellään file.managed moduulilla. <br>
 name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään name kohdan tiedostopolussa. <br>
 (Salt states, user guide) <br>
-
+<br>
+![Description](cat.png)
+<br>
 
 ### Lähteet
 https://stackoverflow.com/questions/1024114/location-of-ini-config-files-in-linux-unix
