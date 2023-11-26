@@ -53,7 +53,10 @@ find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 <br>
 ### c) Komennus
 ### d) Apassi
-
+Tilatiedostossa on määriteltynä apache2 asennus. <br>
+/var/www/html/index.html määritellään file.managed moduulilla. <br>
+name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään name kohdan tiedostopolussa. <br>
+(Salt states, user guide) <br>
 
 
 ### Lähteet
