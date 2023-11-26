@@ -70,7 +70,11 @@ name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään na
 <br>
 Kokeillaan ajaa tilatiedosto. <br>
 <br>
-![Description](.png)
+![Description](apache.png)
+<br>
+
+<br>
+![Description](uusi.png)
 <br>
 Molemmilla koneilla Succeeded: 2(changed=2) tarkistetaan mitä curlaamalla mitä käy. <br>
 <br>
