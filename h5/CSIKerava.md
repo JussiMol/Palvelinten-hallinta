@@ -57,7 +57,6 @@ Käytän seuraavissa tehtävissä tmaster ja t001 ympäristöä. <br>
 ### d) Apassi
 Luon seuraavan hakemiston /srv/salt/apache2. <br>
 /srv/salt luon top.sls tiedoston. <br>
-Tehdään sinne init.sls tiedosto
 <br>
 ![Description](top.png)
 <br>
