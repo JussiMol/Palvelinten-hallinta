@@ -72,11 +72,12 @@ Kokeillaan ajaa tilatiedosto. <br>
 <br>
 ![Description](apache.png)
 <br>
+Näyttökaappaus alusta ja lopusta. <br>
 <br>
 ![Description](uusi.png)
 <br>
 Succeeded: 1(changed=1) tarkistetaan mitä curlaamalla mitä käy. <br>
-Asennen curlin paketinhallinnasta ja tarkistan vagrantfilestä ip:n orjalle, katsotaan vastaako.<br>
+Asennan curlin paketinhallinnasta ja tarkistan vagrantfilestä ip:n orjalle, katsotaan vastaako.<br>
 <br>
 ![Description](curl.png)
 <br>
