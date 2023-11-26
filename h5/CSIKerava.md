@@ -52,7 +52,7 @@ find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 ![Description](home.png)
 <br>
 ### c) Komennus
-Käytän seuraavissa tehtävissä tmaster, t001 ja t002 ympäristöä. <br>
+Käytän seuraavissa tehtävissä tmaster ja t001 ympäristöä. <br>
 
 ### d) Apassi
 Luon seuraavan hakemiston /srv/salt/apache2. <br>
@@ -70,7 +70,7 @@ name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään na
 <br>
 Kokeillaan ajaa tilatiedosto. <br>
 <br>
-![Description](apply.png)
+![Description](.png)
 <br>
 Molemmilla koneilla Succeeded: 2(changed=2) tarkistetaan mitä curlaamalla mitä käy. <br>
 <br>
