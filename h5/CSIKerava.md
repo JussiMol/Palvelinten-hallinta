@@ -75,9 +75,10 @@ Kokeillaan ajaa tilatiedosto. <br>
 <br>
 ![Description](uusi.png)
 <br>
-Molemmilla koneilla Succeeded: 2(changed=2) tarkistetaan mitä curlaamalla mitä käy. <br>
+Succeeded: 1(changed=1) tarkistetaan mitä curlaamalla mitä käy. <br>
+Asennen curlin paketinhallinnasta ja tarkistan vagrantfilestä ip:n orjalle, katsotaan vastaako.<br>
 <br>
-![Description](curl2.png)
+![Description](curl.png)
 <br>
 Apachen asennus onnistui ja uuden sivun luonti siinä samassa. <br>
 Osiossa hyödynsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules">Saltin ohjetta </a>, <a href="https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/?fromSearch=salt%20file">Teron ohjetta </a> Apachen kotisivujen luomiseen tilatiedostolla Package-file-service esimerkki ja luennolla opittuja asioita soveltamalla. <br>
