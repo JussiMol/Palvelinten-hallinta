@@ -34,3 +34,20 @@ Teen nopeaan testitiedoston findia varten noin kello 13.07. <br>
 <br>
 Toimiihan se. ./ on /etc/ tai /home/ tilalla kertomassa että komento ajettiin tämänhetkisessä hakemistossa. Tiedostokin on nähtävissä.<br>
 ### b) Gui2fs
+Virtuaalikoneelle on ladattu VLC Media Player, muokkaan sitä ottamalla audion pois käytöstä. <br>
+<br>
+![Description](vlc.png)
+<br>
+Internetistä löydetyn tiedon mukaan <a href="https://stackoverflow.com/questions/1024114/location-of-ini-config-files-in-linux-unix">konffi tiedostojen</a> sijainti on joko /etc/ tai käyttäjän kotihakemistossa piilotettuna. <br>
+Tein muutoksen ilman sudoa, omalla käyttäjällä ja sovelluksesta suoraan. <br>
+Oletan että konffitiedosto löytyy kotihakemistosta. <br>
+'ls -a' komento näyttää piilotetut tiedostot ja hakemistot. Siirrtyään .config hakemistoon ja etsitään mitä löytyy. <br>
+<br>
+![Description](audio.png)
+<br>
+Tämä näyttäisi olevan sama tiedosto. Grepillä sai lyhennettyä tulostetta, enable audio boolean arvo näyttäisi olevan false. <br>
+Voisin olettaa että oikea tiedosto paikannettu. <br>
+find toiminnolla löysin seuraavalla tavalla samaan paikkaan. <br>
+<br>
+![Description](home.png)
+<br>
