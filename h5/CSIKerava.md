@@ -62,7 +62,7 @@ name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään na
 <br>
 ![Description](cat.png)
 <br>
-Kokeillaan uudestaan ajaa tilatiedosto. <br>
+Kokeillaan ajaa tilatiedosto. <br>
 <br>
 ![Description](apply.png)
 <br>
