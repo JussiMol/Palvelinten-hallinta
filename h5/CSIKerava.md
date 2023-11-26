@@ -51,3 +51,10 @@ find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 <br>
 ![Description](home.png)
 <br>
+### c) Komennus
+
+
+
+
+### Lähteet
+https://stackoverflow.com/questions/1024114/location-of-ini-config-files-in-linux-unix
