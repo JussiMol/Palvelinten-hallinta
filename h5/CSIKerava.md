@@ -60,7 +60,7 @@ Luon seuraavan hakemiston /srv/salt/apache2. <br>
 <br>
 ![Description](top.png)
 <br>
-Tilatiedostossa on määriteltynä apache2 asennus. <br>
+Tilatiedostossa on määriteltynä apache2 asennus ja masterin apache2 kansiosta kotisivu. <br>
 /var/www/html/index.html määritellään file.managed moduulilla. <br>
 name kohta määrittelee tiedostopolun ja source mitä tiedostoa käytetään name kohdan tiedostopolussa. <br>
 (Salt states, user guide) <br>
