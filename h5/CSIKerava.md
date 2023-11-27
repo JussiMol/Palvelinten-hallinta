@@ -109,7 +109,7 @@ Lisävilkaisu ohjeesta ja huomasin kohdan mkdirs. Init.sls tiedostoon pieni lis�
 <br>
 Oli virhe tehdä tämä osio käyttämällä huomenta komentoa nyt tarkistuksessa ei voi olla sata varma onko kansioon asennettu huomenta komento toimiva. <br>
 Kävin t001 koneella suoraan kansiossa kokeilemassa /usr/local/bin/bash/komennot kansiossa kokeilemassa komentoja. <br>
-huomenta toimii, päivää ei. Kaikki haluttu on asennettuna mutta alkuperäisessä tiedostossa on varmaankin joku kirjoitusvirhe tms.<br>
+Huomenta toimii, päivää ei sama pätee .sh kokeilulla. Kaikki haluttu on asennettuna mutta alkuperäisessä tiedostossa on varmaankin joku kirjoitusvirhe tms.<br>
 <br>
 ![Description](lista.png)
 <br>
