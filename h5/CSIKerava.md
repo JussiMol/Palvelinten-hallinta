@@ -114,4 +114,20 @@ Huomenta toimii, päivää ei sama pätee .sh kokeilulla. Kaikki haluttu on asen
 ![Description](lista.png)
 <br>
 ### Lähteet
+#### Tero Karvinen
+Tehtävänanto
+https://terokarvinen.com/2023/configuration-management-2023-autumn/#h5-csi-kerava<br>
+Apache User Homepages Automatically – Salt Package-File-Service Example<br>
+https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/<br>
+#### Stackoverflow
+Location of ini/config files in linux/unix?
 https://stackoverflow.com/questions/1024114/location-of-ini-config-files-in-linux-unix
+#### Salt project
+State modules
+https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules
+Salt.state.directory
+https://docs.saltproject.io/en/latest/ref/states/all/salt.states.file.html#salt.states.file.directory
+#### Tecmint
+35 Practical Examples of Linux Find Command
+https://www.tecmint.com/35-practical-examples-of-linux-find-command/
+
