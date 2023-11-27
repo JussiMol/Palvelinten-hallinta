@@ -58,6 +58,12 @@ Hakemistoon huomenta shell tiedosto ja init.sls tiedosto.
 <br>
 ![Description](shell.png)
 <br>
+Kokeillaan ajaa tila. <br>
+<br>
+![Description](komento.png)
+<br>
+Tilan ajaminen onnistui ja testi t001 osoittaa sen toimivan. <br>
+***Vaihdoin init.sls tiedoston kohdalla nimessä huomenta.sh -> huomenta siksi siinä kohtaa lukee updated***
 ### d) Apassi
 Luon seuraavan hakemiston /srv/salt/apache2. <br>
 /srv/salt luon top.sls tiedoston. <br>
