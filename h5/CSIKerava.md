@@ -54,7 +54,7 @@ find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 ### c) Komennus
 Käytän seuraavissa tehtävissä tmaster ja t001 ympäristöä. <br>
 Luon /srv/salt/huomenta hakemiston. <br>
-Hakemistoon huomenta shell tiedosto ja init.sls tiedosto.
+Hakemistoon huomenta shell tiedosto ja init.sls tiedosto.<br>
 <br>
 ![Description](shell.png)
 <br>
