@@ -53,7 +53,11 @@ find toiminnolla löysin seuraavalla tavalla melkein samaan paikkaan. <br>
 <br>
 ### c) Komennus
 Käytän seuraavissa tehtävissä tmaster ja t001 ympäristöä. <br>
-
+Luon /srv/salt/huomenta hakemiston. <br>
+Hakemistoon huomenta shell tiedosto ja init.sls tiedosto.
+<br>
+![Description](shell.png)
+<br>
 ### d) Apassi
 Luon seuraavan hakemiston /srv/salt/apache2. <br>
 /srv/salt luon top.sls tiedoston. <br>
@@ -82,6 +86,7 @@ Asennan curlin paketinhallinnasta ja tarkistan vagrantfilestä ip:n orjalle, kat
 ![Description](curl.png)
 <br>
 Apachen asennus onnistui ja uuden sivun luonti siinä samassa. <br>
-Osiossa hyödynsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules">Saltin ohjetta </a>, <a href="https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/?fromSearch=salt%20file">Teron ohjetta </a> Apachen kotisivujen luomiseen tilatiedostolla Package-file-service esimerkki ja luennolla opittuja asioita soveltamalla. <br>
+Osiossa hyödynsin <a href="https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules">Saltin ohjetta </a>, <a href="https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/?fromSearch=salt%20file">Teron ohjetta </a>  Package-file-service esimerkki ja luennolla opittuja asioita soveltamalla. <br>
+
 ### Lähteet
 https://stackoverflow.com/questions/1024114/location-of-ini-config-files-in-linux-unix
