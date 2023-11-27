@@ -103,5 +103,9 @@ Tilan ajamisessa on ongelmia hakemiston luomisessa. <br>
 <br>
 ![Description](komento2.png)
 <br>
+Lisävilkaisu ohjeesta ja huomasin kohdan mkdirs. Init.sls tiedostoon pieni lisäys - mkdirs: true ja kokeillaan ajaa tila uudestaan. <br>
+<br>
+![Description](komento3.png)
+<br>
 ### Lähteet
 https://stackoverflow.com/questions/1024114/location-of-ini-config-files-in-linux-unix
