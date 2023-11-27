@@ -60,7 +60,7 @@ Hakemistoon huomenta shell tiedosto ja init.sls tiedosto.<br>
 <br>
 Kokeillaan ajaa tila. <br>
 <br>
-![Description](komento.png)
+![Description](huomenta.png)
 <br>
 Tilan ajaminen onnistui ja testi t001 osoittaa sen toimivan. <br>
 ***Vaihdoin init.sls tiedoston kohdalla nimessä huomenta.sh -> huomenta siksi siinä kohtaa lukee updated***
