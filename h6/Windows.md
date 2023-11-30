@@ -16,4 +16,4 @@
 - /var - vaihtelevaa dataa
 ### a) Asennus
 Asensin Virtuaalikoneen Windows 10 Enterprise versiolla luennolla 28.11. <br>
-Asennuksessa seurasin Halonen, Rajala ja Ollikainen 2023: 
+Asennuksessa seurasin Halonen, Rajala ja Ollikainen 2023: <a href="https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md">Installing Windows 10 on a virtual machine</a> ohjetta.
