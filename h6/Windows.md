@@ -1,4 +1,6 @@
 # H6 Windows
+### Tehtävänanto
+https://terokarvinen.com/2023/configuration-management-2023-autumn/#h6-windows
 ### x) Tiivistelmät
 #### Installing Windows 10 on a virtual machine
 - Valitse ja lataa asennettava levykuva.
@@ -16,4 +18,5 @@
 - /var - vaihtelevaa dataa
 ### a) Asennus
 Asensin Virtuaalikoneen Windows 10 Enterprise versiolla luennolla 28.11. <br>
-Asennuksessa seurasin Halonen, Rajala ja Ollikainen 2023: <a href="https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md">Installing Windows 10 on a virtual machine</a> ohjetta.
+Asennuksessa seurasin Halonen, Rajala ja Ollikainen 2023: <a href="https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md">Installing Windows 10 on a virtual machine</a> ohjetta. <br>
+
