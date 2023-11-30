@@ -8,3 +8,12 @@
 - Käytä "domain login" näin säästyt paljolta Microsoftin käyttäjätili veivaamiselta.
 - Määritä kirjautumistiedot ja odota kunnes asennusohjelma on valmis
 #### Filesystem Hierarchy Standard
+- / root - kaikista tärkein ja ylin hakemisto.
+- /usr - jaettavaa read-only dataa
+- /usr/bin - hakemisto kaikille käyttäjille ajettavista komennoista
+- /home - käyttäjien kotihakemisto
+- /etc -  sisältää ohjelmien asetustiedostoja ja konfiguraatiotiedostoja.
+- /var - vaihtelevaa dataa
+### a) Asennus
+Asensin Virtuaalikoneen Windows 10 Enterprise versiolla luennolla 28.11. <br>
+Asennuksessa seurasin Halonen, Rajala ja Ollikainen 2023: 
