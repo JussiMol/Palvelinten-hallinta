@@ -71,5 +71,5 @@ Voisin yhdistää h) tehtävän ja kokeilla sitä tähän perään, mielestäni 
 <br>
 Reilu tunti surffailua ja eri lähteiden lukemista. En osaa sanoa yhtään mikä tässä mättää. Melkein kaikki ohjeet ovat linux-herra/windows-minion näkökulmasta. <br>
 Saltin Windowsilla pitäisi käynnistäessä tehdä alihakemistoja ja conffi tiedostoja, jota täydennettäisiin. Niitä ei ilmestynyt kuin itse tekemällä. <br>
-Kaikki maholliset restart-servicet yms kokeiltu ja ei edistystä. <br>
+Minionin uudelleenkäynnistykset kokeiltu, ping testi vastaa mutta jotain ei ole tehty/toiminut. <br>
 Kokeilen tehdä vagrantin kautta paria vapaaehtoista kohtaa. <br>
