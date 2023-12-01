@@ -21,7 +21,7 @@ Asensin Virtuaalikoneen Windows 10 Enterprise versiolla luennolla 28.11. <br>
 Asennuksessa seurasin Halonen, Rajala ja Ollikainen 2023: <a href="https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md">Installing Windows 10 on a virtual machine</a> ohjetta. <br>
 Ainut muutos mitä tein ohjeisiin on kovalevytila, jota laitoin virtuaalikoneelle 20GB koska isäntäkoneella alkaa olla tallennustila niukilla. <br>
 ### b) Salt Windowsilla
-Asennuspaketti https://docs.saltproject.io/en/3004/topics/installation/windows.html, valitsen Python3 AMD64 version. <br>
+Asennuspaketti https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/windows.html#install-windows, valitsen Python3 AMD64 version. <br>
 Asennusohjelmassa klikkaillaan aika pitkälti nextiä, poikkeuksena asennuspolku (jos haluat muuttaa) ja seuraava vaihe. <br>
 <br>
 ![Description](ip.png)
