@@ -37,7 +37,8 @@ Testi onko ohjelma asennettu <br>
 ![Description](versio.png)
 <br>
 ### c) Tiedot
-Etsitään tietoja koneesta, ajan ensin grains.items ja poimin sieltä olennaista tietoa.
+Etsitään tietoja koneesta, ajan ensin grains.items ja poimin sieltä olennaista tietoa.<br>
+grains.item perään alla tuloste. <br>
 <br>
 ![Description](grains.png)
 <br>
