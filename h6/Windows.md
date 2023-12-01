@@ -66,4 +66,4 @@ Kokonaan uutta toimintoa on hieman vaikea keksiä. Kokeilen kumminkin hyödyllis
 <br>
 ![Description](pkgs.png)
 <br>
-Voisin yhdistää h) tehtävän tähän samaan ja kokeilla sitä tähän perään, mielestäni en ole automatisoinut kertaakaan käyttäjien lisäämistä. <br>
+Voisin yhdistää h) tehtävän ja kokeilla sitä tähän perään, mielestäni en ole automatisoinut kertaakaan käyttäjien lisäämistä. <br>
