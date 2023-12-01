@@ -26,7 +26,7 @@ Asennusohjelmassa klikkaillaan aika pitkälti nextiä, poikkeuksena asennuspolku
 <br>
 ![Description](ip.png)
 <br>
-Tähän kohtaan laitetaan haluamasi masterin ip4 osoite. Tässä tapauksessa virtuaalikoneen mihin salt asennetaan. <br>
+Tähän kohtaan laitetaan masterin ip4 osoite. Tässä tapauksessa virtuaalikoneen mihin salt asennetaan. <br>
 Asennusohjelma on valmis, testataan toimintaa Powershellistä. <br>
 Windowsin hakupalkkiin powershell hakuun, mouse2 ikonin päällä ja run as administrator. <br>
 <br>
