@@ -36,3 +36,18 @@ Testi onko ohjelma asennettu <br>
 <br>
 ![Description](versio.png)
 <br>
+### c) Tiedot
+Etsitään tietoja koneesta, ajan ensin grains.items ja poimin sieltä olennaista tietoa.
+<br>
+![Description](grains.png)
+<br>
+Prosessorin arkkitehtuuri: AMD64
+cwd: current working directory <br>
+ipv4 osoitteet 10.0.2.15 reitityksessä käytetty ip ja 127. localhost. <br>
+mem_total: Käytettävän RAM muistin määrä megatavuina virtuaalikoneella (hostilla on 4 kertainen määrä) <br>
+os_family: Käyttöjärjestelmän tuoteperhe <br>
+osfinger: Käyttöjärjestelmä tarkemmin<br>
+osversion: Käyttöjärjestelmän tarkka versio.<br>
+Kunniamaininta, jota en älynnyt sisällyttää komentoon. <br>
+num_cpus: 4 prosessoriytimien määrä virtuaalikoneessa  <br>
+### d) Salt file
