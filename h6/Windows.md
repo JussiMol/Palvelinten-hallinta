@@ -24,7 +24,7 @@ Ainut muutos mitä tein ohjeisiin on kovalevytila, jota laitoin virtuaalikoneell
 Asennuspaketti https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/windows.html#install-windows, valitsen Python3 AMD64 version. <br>
 Asennusohjelmassa klikkaillaan aika pitkälti nextiä, poikkeuksena asennuspolku (jos haluat muuttaa) ja seuraava vaihe. <br>
 <br>
-![Description](.png)
+![Description](ip.png)
 <br>
 Tähän kohtaan laitetaan masterin ip4 osoite. Tässä tapauksessa virtuaalikoneen mihin salt asennetaan. <br>
 Asennusohjelma on valmis, testataan toimintaa Powershellistä. <br>
