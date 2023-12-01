@@ -51,3 +51,18 @@ osversion: Käyttöjärjestelmän tarkka versio.<br>
 Kunniamaininta, jota en älynnyt sisällyttää komentoon. <br>
 num_cpus: 4 prosessoriytimien määrä virtuaalikoneessa  <br>
 ### d) Salt file
+Testataan tiedoston luomista. <br>
+<br>
+![Description](file.png)
+<br>
+Virheilmoituksesta voisin päätellä että windows vaatii polun tiedoston tekemiselle. <br>
+Määritetään se suoraan C hakemiston alle. <br>
+<br>
+![Description](file2.png)
+<br>
+Virheilmoituksesta saa hyvin kiinni missä ongelmat piilee. <br>
+### e) Uusi toiminto
+Kokonaan uutta toimintoa on hieman vaikea keksiä. Kokeilen kumminkin hyödyllistä <a href="https://docs.saltproject.io/en/latest/topics/windows/windows-package-manager.html#list-installed-packages">toimintoa</a>.<br>
+<br>
+![Description](pkgs.png)
+<br>
