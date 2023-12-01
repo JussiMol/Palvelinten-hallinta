@@ -44,7 +44,7 @@ grains.item perään alla tuloste. <br>
 <br>
 Prosessorin arkkitehtuuri: AMD64 <br>
 cwd: current working directory <br>
-ipv4 osoitteet 10.0.2.15 reitityksessä käytetty ip ja 127. localhost. <br>
+ipv4 osoitteet 10.0.2.15 reitityksessä käytettävä osoita ja 127. alkuinen on localhost. <br>
 mem_total: Käytettävän RAM muistin määrä megatavuina virtuaalikoneella (hostilla on 4 kertainen määrä) <br>
 os_family: Käyttöjärjestelmän tuoteperhe <br>
 osfinger: Käyttöjärjestelmä tarkemmin<br>
