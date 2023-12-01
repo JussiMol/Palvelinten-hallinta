@@ -34,7 +34,7 @@ Windowsin hakupalkkiin powershell hakuun, mouse2 ikonin päällä ja run as admi
 <br>
 Testi onko ohjelma asennettu <br>
 <br>
-![Description](versio.png)
+![Description](version.png)
 <br>
 ### c) Tiedot
 Etsitään tietoja koneesta, ajan ensin grains.items ja poimin sieltä olennaista tietoa.<br>
