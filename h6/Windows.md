@@ -60,9 +60,10 @@ Määritetään se suoraan C hakemiston alle. <br>
 <br>
 ![Description](file2.png)
 <br>
-Virheilmoituksesta saa hyvin kiinni missä ongelmat piilee. <br>
+Virheilmoituksesta saa hyvin kiinni missä ongelmat piilee ja tiedosto ilmestyi minne haluttiin. <br>
 ### e) Uusi toiminto
 Kokonaan uutta toimintoa on hieman vaikea keksiä. Kokeilen kumminkin hyödyllistä <a href="https://docs.saltproject.io/en/latest/topics/windows/windows-package-manager.html#list-installed-packages">toimintoa</a>.<br>
 <br>
 ![Description](pkgs.png)
 <br>
+Voisin yhdistää h) tehtävän tähän samaan ja kokeilla sitä tähän perään, mielestäni en ole automatisoinut kertaakaan käyttäjien lisäämistä. <br>
