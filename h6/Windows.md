@@ -67,3 +67,7 @@ Kokonaan uutta toimintoa on hieman vaikea keksiä. Kokeilen kumminkin hyödyllis
 ![Description](pkgs.png)
 <br>
 Voisin yhdistää h) tehtävän ja kokeilla sitä tähän perään, mielestäni en ole automatisoinut kertaakaan käyttäjien lisäämistä. <br>
+Parisen tuntia surffailua ja eri lähteiden lukemista. En osaa sanoa yhtään mikä tässä mättää. Melkein kaikki ohjeet ovat linux-herra/windows-minion näkökulmasta. <br>
+Saltin Windowsilla pitäisi käynnistäessä tehdä alihakemistoja ja conffi tiedostoja, jota täydennettäisiin. Niitä ei ilmestynyt kuin itse tekemällä. <br>
+Kaikki maholliset restart-servicet yms kokeiltu ja ei edistystä. <br>
+Kokeilen tehdä vagrantin kautta paria kohtaa. <br>
