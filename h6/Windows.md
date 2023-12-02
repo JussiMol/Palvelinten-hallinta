@@ -70,8 +70,15 @@ Kokonaan uutta toimintoa on hieman vaikea keksiä. Kokeilen kumminkin hyödyllis
 Itse asennetut paketit ovat virtualboxin guest additions ja salt. <br>
 <br>
 Reilu tunti surffailua ja eri lähteiden lukemista. Yritin tehdä vapaaehtoisia tehtäviä ja kaikissa samanlainen ongelma.<br>
+Tiloja ajaessa salt ei paikantanut .sls tiedostoja tai top.sls tiedostoa. Kaikki ajot päättyivät error viesteihin. <br> 
 Luen vertaisarviointeja ja katson mistä kiikastaa. <br>
 ***Tein tilatiedostoja paikallista ajamista varten. Niitä ei pitäisi tarvita***<br>
+***Käytännössä yritin automatisoida ennen käsin asentamista ja metsään meni***<br>
+En luovuttanut täysin vaikka turhauttikin aika paljon. Kokeilen lisätä käyttäjän. <br>
+<a href="https://github.com/LiisaLesonen/palvelintenhallinta/blob/main/h6.md#ensin-syötin">Liisan</a> raportista 
+<br>
+![Description](user.png)
+<br>
 ### Lähteet
 ### Tero Karvinen
 #### Tehtävänanto
