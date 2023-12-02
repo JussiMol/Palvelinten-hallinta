@@ -87,6 +87,9 @@ Käytännössä minulla oli nämä kaikki vapaaehtoiset tehtävät tilatiedostoj
 ### Tero Karvinen
 #### Tehtävänanto
 https://terokarvinen.com/2023/configuration-management-2023-autumn/#h6-windows
+### Johan Lindell
+#### Harjoitus 6 - Windows
+https://johanlindell.fi/palvelintenhallinta
 ### LSB Workgroup, The Linux Foundation
 #### Filesystem Hierarchy Standard
 https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
