@@ -70,8 +70,19 @@ Kokonaan uutta toimintoa on hieman vaikea keksiä. Kokeilen kumminkin hyödyllis
 Itse asennetut paketit ovat virtualboxin guest additions ja salt. <br>
 <br>
 Reilu tunti surffailua ja eri lähteiden lukemista. Yritin tehdä vapaaehtoisia tehtäviä ja kaikissa samanlainen ongelma.<br>
-En osaa sanoa yhtään mikä tässä mättää. Melkein kaikki ohjeet ovat linux-herra/windows-minion näkökulmasta. <br>
-Saltin Windowsilla pitäisi asentaessa tehdä alihakemistoja ja conffi tiedosto, jota täydennettäisiin. Niitä ei ilmestynyt kuin itse tekemällä. <br>
-Minionin uudelleenkäynnistykset kokeiltu, ping testi vastaa mutta jotain kummallista. <br>
-Katson pari vertaisarviointia ja jatkan tekemistä jos sieltä selviää mistä kiikastaa. <br>
+Luen vertaisarviointeja ja katson mistä kiikastaa. <br>
+***Tein tilatiedostoja paikallista ajamista varten. Niitä ei pitäisi tarvita***<br>
+### Lähteet
+### Tero Karvinen
+#### Tehtävänanto
+https://terokarvinen.com/2023/configuration-management-2023-autumn/#h6-windows
+### LSB Workgroup, The Linux Foundation
+#### Filesystem Hierarchy Standard
+https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
+### Halonen, Rajala ja Ollikainen
+#### Installing Windows 10 on a virtual machine
+https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md
+### Salt Project
+#### Windows Package Manager
+https://docs.saltproject.io/en/latest/topics/windows/windows-package-manager.html#list-installed-packages
 
