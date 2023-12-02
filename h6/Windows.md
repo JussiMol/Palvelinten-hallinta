@@ -3,7 +3,7 @@
 https://terokarvinen.com/2023/configuration-management-2023-autumn/#h6-windows
 ### x) Tiivistelmät
 #### Harjoitus 6 - Windows
-<a href="https://johanlindell.fi/palvelintenhallinta">Johan Lindellin</a> Salt harjoitus keväältä 2021. Raportissa käydään läpi saltin asennus windowssille, herralla tehtävät toimenpiteet, vscode tilan ajaminen millä asennetaan koodieditori orjalle ja tarkistukset toimenpiteille. <br>
+<a href="https://johanlindell.fi/palvelintenhallinta#h6">Johan Lindellin</a> Salt harjoitus keväältä 2021. Raportissa käydään läpi saltin asennus windowssille, herralla tehtävät toimenpiteet, vscode tilan ajaminen millä asennetaan koodieditori orjalle ja tarkistukset toimenpiteille. <br>
 #### Installing Windows 10 on a virtual machine
 - Valitse ja lataa asennettava levykuva.
 - Aloita asennus määrittämällä virtuaalikoneen speksit ja asennuspolku
