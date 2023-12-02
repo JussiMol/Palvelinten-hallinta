@@ -85,4 +85,5 @@ https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windo
 ### Salt Project
 #### Windows Package Manager
 https://docs.saltproject.io/en/latest/topics/windows/windows-package-manager.html#list-installed-packages
-
+#### Salt Windows asennusohjelma
+https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/windows.html#install-windows
