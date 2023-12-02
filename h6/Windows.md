@@ -68,8 +68,10 @@ Kokonaan uutta toimintoa on hieman vaikea keksiä. Kokeilen kumminkin hyödyllis
 ![Description](pkgs.png)
 <br>
 Itse asennetut paketit ovat virtualboxin guest additions ja salt. <br>
-Voisin yhdistää h) tehtävän ja kokeilla sitä tähän perään, mielestäni en ole automatisoinut kertaakaan käyttäjien lisäämistä. <br>
 <br>
-Reilu tunti surffailua ja eri lähteiden lukemista. En osaa sanoa yhtään mikä tässä mättää. Melkein kaikki ohjeet ovat linux-herra/windows-minion näkökulmasta. <br>
-Saltin Windowsilla pitäisi käynnistäessä tehdä alihakemistoja ja conffi tiedostoja, jota täydennettäisiin. Niitä ei ilmestynyt kuin itse tekemällä. <br>
-Minionin uudelleenkäynnistykset kokeiltu, ping testi vastaa mutta jotain ei ole tehty/toiminut. <br>
+Reilu tunti surffailua ja eri lähteiden lukemista. Yritin tehdä vapaaehtoisia tehtäviä ja kaikissa samanlainen ongelma.<br>
+Tiloja ajaessa ei löydy 
+En osaa sanoa yhtään mikä tässä mättää. Melkein kaikki ohjeet ovat linux-herra/windows-minion näkökulmasta. <br>
+Saltin Windowsilla pitäisi asentaessa tehdä alihakemistoja ja conffi tiedostoja, jota täydennettäisiin. Niitä ei ilmestynyt kuin itse tekemällä. <br>
+Minionin uudelleenkäynnistykset kokeiltu, ping testi vastaa mutta jotain kummallista. <br>
+Katson pari vertaisarviointia ja jatkan tekemistä jos sieltä selviää mistä kiikastaa. <br>
