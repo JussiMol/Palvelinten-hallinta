@@ -74,8 +74,7 @@ Tiloja ajaessa salt ei paikantanut .sls tiedostoja tai top.sls tiedostoa. Kaikki
 Luen vertaisarviointeja ja katson mistä kiikastaa. <br>
 ***Tein tilatiedostoja paikallista ajamista varten. Niitä ei pitäisi tarvita***<br>
 ***Käytännössä yritin automatisoida ennen käsin asentamista ja metsään meni***<br>
-En luovuttanut täysin vaikka turhauttikin aika paljon. Kokeilen lisätä käyttäjän. <br>
-<a href="https://github.com/LiisaLesonen/palvelintenhallinta/blob/main/h6.md#ensin-syötin">Liisan</a> raportista 
+En luovuttanut täysin vaikka turhauttikin aika paljon. Kokeilen lisätä käyttäjän. <br> 
 <br>
 ![Description](user.png)
 <br>
