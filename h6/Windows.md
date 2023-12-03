@@ -75,7 +75,7 @@ Reilu tunti surffailua ja eri lähteiden lukemista. Yritin tehdä vapaaehtoisia 
 Tiloja ajaessa salt ei paikantanut .sls tiedostoja tai top.sls tiedostoa. Kaikki ajot päättyivät error viesteihin. <br> 
 Luen vertaisarviointeja ja katson mistä kiikastaa. <br>
 <br>
-***Tein tilatiedostoja paikallista ajamista varten. Niitä ei pitäisi tarvita***<br>
+***Tein tilatiedostoja paikallista ajamista varten. Niitä ei pitäisi tarvita vaan tehdä --local komentoja***<br>
 ***Käytännössä yritin automatisoida ennen käsin asentamista ja metsään meni***<br>
 <br>
 En luovuttanut täysin vaikka turhauttikin aika paljon. Kokeilen lisätä käyttäjän. <br>
