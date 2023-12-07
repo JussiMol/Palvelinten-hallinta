@@ -12,4 +12,4 @@ Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa
 ![Description](vagrant.png)
 <br>
 <br>
-Vagrant tiedostoon on saatu pohja Tero Karvisen<a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
+Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
