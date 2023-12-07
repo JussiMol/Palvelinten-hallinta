@@ -8,3 +8,6 @@ Debian 11 kone salt-master asennettuna provisioinnin yhteydessä.<br>
 Apassi orja. <br>
 Debian 11 kone salt-minion asennettuna provisioinnin yhteydessä. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
+<br>
+![Description](vagrant.png)
+<br>
