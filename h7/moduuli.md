@@ -25,3 +25,4 @@ Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don k
 ![Description](don.png)
 <br>
 <br>
+Kirjautuminen onnistuu, siirryn työskentelemään isäntäkoneen komentokehotteeseen masterille ssh-yhteydellä. <br>
