@@ -11,12 +11,12 @@ RAM: 16Gb<br>
 Debian 11 kone salt-master asennettuna provisioinnin yhteydessä.<br>
 #### Debian 11 kone <br>
 Minion shell skriptissä asennetaan salt-minion.<br>
-Asennetaan xfce4 joka on kevyt työpöytäympäristö. <br>
+Asennetaan xfce4 joka on <a href="https://www.xfce.org/">kevyt työpöytäympäristö</a>. <br>
 Lisätään käyttäjän don. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
 <br>
 ![Description](vagrant2.png)
-<br>
+<br> 
 <br>
 Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
 Ympäristön käyttöönotto 'vagrant up' komennolla. <br>
