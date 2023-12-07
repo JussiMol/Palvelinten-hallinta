@@ -12,7 +12,7 @@ Debian 11 kone salt-master asennettuna provisioinnin yhteydessä.<br>
 #### Debian 11 kone <br>
 Minion shell skriptissä asennetaan salt-minion.<br>
 Asennetaan xfce4 joka on <a href="https://www.xfce.org/">kevyt työpöytäympäristö</a>. <br>
-Lisätään käyttäjän don. <br>
+Lisätään käyttäjä don. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
 <br>
 ![Description](vagrant2.png)
