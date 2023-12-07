@@ -26,3 +26,11 @@ Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don k
 <br>
 <br>
 Kirjautuminen onnistuu, siirryn työskentelemään isäntäkoneen komentokehotteeseen masterille ssh-yhteydellä. <br>
+
+
+
+
+
+
+https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers
+https://stackoverflow.com/questions/18878117/using-vagrant-to-run-virtual-machines-with-desktop-environment
