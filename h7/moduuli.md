@@ -1,7 +1,7 @@
 #H7 Oma moduuli
 ### Tavoitetila
 Moduulin tavoitteena on luoda vagranttia käyttäen kahden koneen herra/orja arkkitehtuuri.<br>
-Tarkoitus olisi masteria käyttäen luoda orjalle uusi käyttäjä ja käyttäjälle ympäristö verkkosivujen luomiseen sekä tarkasteluun.<br>
+Tarkoitus olisi masteria käyttäen luoda orjalle ympäristö verkkosivujen luomiseen ja mahdollistaa selaimella niiden tarkastelu.<br>
 ### Lähtötiedot
 #### Isäntäkone
 OS: Windows 10 Home 64-bit<br>
