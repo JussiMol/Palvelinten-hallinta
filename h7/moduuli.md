@@ -9,7 +9,7 @@ Apassi orja. <br>
 Debian 11 kone salt-minion asennettuna provisioinnin yhteydessä. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
 <br>
-![Description](vagrant.png)
+![Description](vagrant2.png)
 <br>
 <br>
 Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
