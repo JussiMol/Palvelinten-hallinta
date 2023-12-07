@@ -1,5 +1,5 @@
 # H7 Oma moduuli
-### Tavoitetila
+### Tavoite
 Moduulin tavoitteena on luoda vagranttia käyttäen kahden koneen herra/orja arkkitehtuuri.<br>
 Tarkoitus olisi masteria käyttäen luoda orjalle ympäristö verkkosivujen luomiseen ja mahdollistaa selaimella niiden tarkastelu.<br>
 ### Lähtötiedot
