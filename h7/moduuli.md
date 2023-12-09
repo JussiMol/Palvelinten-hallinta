@@ -37,7 +37,6 @@ Tilan ajaminen komennolla 'sudo salt '*' state.apply'
 ![Description](tila.png)
 <br>
 <br>
-<br>
 ![Description](ajo.png)
 <br>
 
