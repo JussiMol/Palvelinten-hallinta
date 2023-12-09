@@ -51,7 +51,7 @@ Seuraavaksi tarkistus apassi koneelta onko Firefox selain ja apache2 pyörimäss
 ![Description](firefox.png)
 <br>
 <br>
-Loin manuaalisesti Microa käyttäen don käyttäjällä /home/don/public_html/index.html sivun ja katsotaan selaimella näkyykö se.<br>
+Loin manuaalisesti Microalla don käyttäjällä /home/don/public_html/index.html sivun ja katsotaan selaimella näkyykö se.<br>
 <br>
 ![Description](testi.png)
 <br>
