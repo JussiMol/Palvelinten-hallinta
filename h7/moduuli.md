@@ -14,6 +14,8 @@ Minion shell skriptissä asennetaan salt-minion.<br>
 Asennetaan xfce4 joka on <a href="https://www.xfce.org/">kevyt työpöytäympäristö</a>. <br>
 Lisätään käyttäjä don. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
+Q: Miksi lisätä käyttäjä koneiden luonnin aikana eikä tilatiedostolla?<br>
+A: Olen tehnyt ennenkin tilatiedostolla käyttäjän luomisen, halusin kokeilla muuta lähestymistapaa. Tapa ei ole paras mahdollinen käytäntö mutta halusin kokeilla tätä tyyliä. <br> 
 <br>
 ![Description](vagrant2.png)
 <br> 
