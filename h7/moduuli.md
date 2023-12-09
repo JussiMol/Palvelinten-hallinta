@@ -24,9 +24,12 @@ A: Olen tehnyt ennenkin tilatiedostolla käyttäjän luomisen, halusin kokeilla 
 <br>
 Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
 Ympäristön käyttöönotto 'vagrant up' komennolla. <br>
-Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don käyttäjällä. <br>
+Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don käyttäjällä sekä sudo oikeudet. <br>
 <br>
 ![Description](don.png)
+<br>
+<br>
+![Description](sudo.png)
 <br>
 <br>
 Kirjautuminen onnistuu, siirryn työskentelemään isäntäkoneen komentokehotteeseen masterille ssh-yhteydellä. <br>
