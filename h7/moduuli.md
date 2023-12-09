@@ -51,8 +51,12 @@ Seuraavaksi tarkistus apassi koneelta onko Firefox selain ja apache2 pyörimäss
 <br>
 <br>
 Nyt meillä on ympäristö tarvittavilla sovelluksilla sekä käyttäjällä verkkosivujen luomiseen. <br>
-Jätin tarkoituksella "kehityksen" minion koneelle enkä masterille. Mielestäni se olisi hieman sekava pakka pitää kasassa jos kehitys olisi tehty masterilla ja seurattu source tiedostoja. <br>
+Jätin tarkoituksella "kehityksen" orja koneelle enkä masterille. Mielestäni se olisi hieman sekava pakka pitää kasassa jos kehitys olisi tehty masterilla ja seurattu source tiedostoja. <br>
+Mitä idempotenssiin tulee niin tässä tapauksessa tarvittavien ohjelmien olemassaolo, sekä käyttäjän mahdollisuus luoda omia kotisivuja ovat se tila mitä halutaan pitää yllä. <br>
 ### Linkit
+https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h1/Viisikko.md <br>
+
+
 https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers <br>
 https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/
 https://stackoverflow.com/questions/18878117/using-vagrant-to-run-virtual-machines-with-desktop-environment <br>
