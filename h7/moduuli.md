@@ -62,7 +62,10 @@ https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h5/CSIKerava.md<br>
 https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h6/Windows.md <br>
 ### Lähteet
 #### Tero Karvinen
+Salt Vagrant - automatically provision one master and two slaves <br>
 https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers <br>
+Apache User Homepages Automatically – Salt Package-File-Service Example <br>
 https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/ <br>
 #### Stack overflow
+Using vagrant to run virtual machines with desktop environment
 https://stackoverflow.com/questions/18878117/using-vagrant-to-run-virtual-machines-with-desktop-environment <br>
