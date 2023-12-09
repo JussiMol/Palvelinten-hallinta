@@ -36,11 +36,17 @@ Tilan ajaminen komennolla 'sudo salt '*' state.apply'<br>
 <br>
 ![Description](tila.png)
 <br>
-Kuva otettu toisesta ajosta, jotta kaikki saadaan nätisti yhteen kuvaan. <br>
+Kuva otettu toisesta ajosta, jotta kaikki saadaan nätisti yhteen kuvaan. Tilan ajaminen on onnistunut ilman virheitä, niistä tulisi ilmoitukset kunkin epäonnistuneen kohdan yhteydessä. <br>
+Muutokset ilmoitettaisiin myös niissä kohdissa, joissa muutoksia tehdään. <br>
+Succeeded: 6 perässä lukisi (changed:(numero)) riippuen kuinka monta muutosta tapahtuu. <br>
 <br>
 ![Description](ajo.png)
 <br>
-
+<br>
+Seuraavaksi tarkistus apassi koneelta onko Firefox selain ja apache2 pyörimässä. <br>
+<br>
+![Description](firefox.png)
+<br>
 
 
 https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers <br>
