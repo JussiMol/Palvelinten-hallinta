@@ -23,6 +23,13 @@ Käyttäjien hallinnointiin virkistin muistia <a href="https://www.freecodecamp.
 ![Description](vagrant3.png)
 <br> 
 <br>
+Puran hieman omia lisäyksiä auki. <br>
+ useradd - käyttäjänlisäys<br>
+ (-m) luo käyttäjän kotihakemiston<br>
+ (-c $full_name) lisää käyttäjän käyttäjätiedostoon ja se poimii arvoksi edellä mainitun "Don Devaaja"<br>
+ (-s /bin/bash) määrittää käyttäjän oletuskomentotulkin<br>
+ $username määrittää käyttäjänimen. <br>
+ 
 Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
 Ympäristön käyttöönotto 'vagrant up' komennolla. <br>
 Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don käyttäjällä sekä sudo oikeudet. <br>
