@@ -74,5 +74,5 @@ https://stackoverflow.com/questions/18878117/using-vagrant-to-run-virtual-machin
 #### Xfce Development Team
 https://www.xfce.org/
 #### FreeCodeCamp
-How to Manage Users in Linux
+How to Manage Users in Linux<br>
 https://www.freecodecamp.org/news/how-to-manage-users-in-linux/
