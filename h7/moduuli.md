@@ -69,3 +69,5 @@ https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-pac
 #### Stack overflow
 Using vagrant to run virtual machines with desktop environment<br>
 https://stackoverflow.com/questions/18878117/using-vagrant-to-run-virtual-machines-with-desktop-environment <br>
+#### Xfce Development Team
+https://www.xfce.org/
