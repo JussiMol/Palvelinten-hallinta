@@ -57,9 +57,9 @@ Loin manuaalisesti Microalla don käyttäjällä /home/don/public_html/index.htm
 <br>
 <br>
 Nyt meillä on ympäristö tarvittavilla sovelluksilla sekä käyttäjällä verkkosivujen luomiseen. <br>
-Jätin tarkoituksella "kehityksen" orja koneelle enkä masterille. Mielestäni se olisi hieman sekava pakka pitää kasassa jos kehitys olisi tehty masterilla ja seurattu source tiedostoja. <br>
-Automaatio sai hoitaa meille ympäristön rakentamisen ja manuaalisesti jatkuisi hommat. <br>
+Jätin tarkoituksella "kehityksen" orja koneelle enkä masterille. Mielestäni se olisi hieman sekava pakka (voin olla väärässä) pitää kasassa jos kehitys olisi tehty masterilla ja seurattu source tiedostoja. <br>
 Mitä idempotenssiin tulee niin tässä tapauksessa tarvittavien ohjelmien olemassaolo, sekä käyttäjän mahdollisuus luoda omia kotisivuja ovat se tila mitä halutaan pitää yllä. <br>
+Mielestäni tavoite on saavutettu. Automaatiolla rakennettiin ympäristö, joka mahdollistaa manuaalisen työskentelyn ja testauksen. <br>
 ### Kotitehtävät
 https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h1/Viisikko.md <br>
 https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h2/Karjaa.md <br>
