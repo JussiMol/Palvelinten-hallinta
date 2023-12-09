@@ -19,7 +19,7 @@ Q: Miksi lisätä käyttäjä koneiden luonnin aikana eikä tilatiedostolla?<br>
 A: Olen tehnyt ennenkin tilatiedostolla käyttäjän luomisen, halusin kokeilla muuta lähestymistapaa. Tapa ei ole paras mahdollinen käytäntö mutta halusin kokeilla tätä tyyliä. <br> 
 <br>
 <br>
-![Description](vagrant2.png)
+![Description](vagrant3.png)
 <br> 
 <br>
 Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
