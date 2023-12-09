@@ -16,7 +16,8 @@ Lisätään käyttäjä don ja asetetaan se sudo ryhmään. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
 <br>
 Q: Miksi lisätä käyttäjä koneiden luonnin aikana eikä tilatiedostolla?<br>
-A: Olen tehnyt ennenkin tilatiedostolla käyttäjän luomisen, halusin kokeilla muuta lähestymistapaa. Tapa ei ole paras mahdollinen käytäntö mutta halusin kokeilla tätä tyyliä. <br> 
+A: Olen tehnyt ennenkin tilatiedostolla käyttäjän luomisen, halusin kokeilla muuta lähestymistapaa. Tapa ei ole paras mahdollinen käytäntö mutta halusin kokeilla tätä tyyliä. <br>
+Mikäli koneita olisi enemmän niin don luotaisiin jokaiselle minionille. <br>
 Käyttäjien hallinnointiin virkistin muistia <a href="https://www.freecodecamp.org/news/how-to-manage-users-in-linux">FreeCodeCampin</a> linux artikkelista. <br>
 <br>
 <br>
