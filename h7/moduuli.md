@@ -55,7 +55,7 @@ Jätin tarkoituksella "kehityksen" orja koneelle enkä masterille. Mielestäni s
 Mitä idempotenssiin tulee niin tässä tapauksessa tarvittavien ohjelmien olemassaolo, sekä käyttäjän mahdollisuus luoda omia kotisivuja ovat se tila mitä halutaan pitää yllä. <br>
 ### Linkit
 https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h1/Viisikko.md <br>
-
+https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h2/Karjaa.md <br>
 
 https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers <br>
 https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/
