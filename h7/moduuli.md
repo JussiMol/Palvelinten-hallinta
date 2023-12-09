@@ -31,11 +31,12 @@ Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don k
 <br>
 Kirjautuminen onnistuu, siirryn työskentelemään isäntäkoneen komentokehotteeseen masterille ssh-yhteydellä. <br>
 Luon ensimmäiseksi vanhoja muistiinpanojani sekä Tero Karvisen <a href="https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/">Apache PFS esimerkkiä</a> hyödyntäen top.sls ja tila.sls tiedostot masterin /srv/salt hakemistoon. <br>
-Tilan ajaminen komennolla 'sudo salt '*' state.apply'
+Tilan ajaminen komennolla 'sudo salt '*' state.apply'<br>
 <br>
 <br>
 ![Description](tila.png)
 <br>
+Kuva otettu toisesta ajosta, jotta kaikki saadaan nätisti yhteen kuvaan. <br>
 <br>
 ![Description](ajo.png)
 <br>
