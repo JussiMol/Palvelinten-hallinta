@@ -49,6 +49,7 @@ Seuraavaksi tarkistus apassi koneelta onko Firefox selain ja apache2 pyörimäss
 <br>
 ![Description](firefox.png)
 <br>
+<br>
 Nyt meillä on ympäristö tarvittavilla sovelluksilla sekä käyttäjällä verkkosivujen luomiseen. <br>
 Jätin tarkoituksella "kehityksen" minion koneelle enkä masterille. Mielestäni se olisi hieman sekava pakka pitää kasassa jos kehitys olisi tehty masterilla ja seurattu source tiedostoja. <br>
 ### Linkit
