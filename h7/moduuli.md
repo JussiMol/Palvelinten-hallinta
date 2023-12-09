@@ -17,6 +17,7 @@ Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa
 <br>
 Q: Miksi lisätä käyttäjä koneiden luonnin aikana eikä tilatiedostolla?<br>
 A: Olen tehnyt ennenkin tilatiedostolla käyttäjän luomisen, halusin kokeilla muuta lähestymistapaa. Tapa ei ole paras mahdollinen käytäntö mutta halusin kokeilla tätä tyyliä. <br> 
+Käyttäjien hallinnointiin virkistin muistia /<a href="https://www.freecodecamp.org/news/how-to-manage-users-in-linux">FreeCodeCampin</a> linux artikkelista. <br>
 <br>
 <br>
 ![Description](vagrant3.png)
@@ -71,3 +72,6 @@ Using vagrant to run virtual machines with desktop environment<br>
 https://stackoverflow.com/questions/18878117/using-vagrant-to-run-virtual-machines-with-desktop-environment <br>
 #### Xfce Development Team
 https://www.xfce.org/
+#### FreeCodeCamp
+How to Manage Users in Linux
+https://www.freecodecamp.org/news/how-to-manage-users-in-linux/
