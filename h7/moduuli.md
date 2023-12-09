@@ -30,11 +30,19 @@ Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don k
 <br>
 <br>
 Kirjautuminen onnistuu, siirryn työskentelemään isäntäkoneen komentokehotteeseen masterille ssh-yhteydellä. <br>
-Luon ensimmäiseksi vanhoja muistiinpanojani sekä Tero Karvisen <a href="https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/">Apache PFS esimerkkiä</a> hyödyntäen top.sls ja tila.sls tiedostot tilojen ajamista varten. <br>
-
-
+Luon ensimmäiseksi vanhoja muistiinpanojani sekä Tero Karvisen <a href="https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/">Apache PFS esimerkkiä</a> hyödyntäen top.sls ja tila.sls tiedostot masterin /srv/salt hakemistoon. <br>
+Tilan ajaminen komennolla 'sudo salt '*' state.apply'
+<br>
+<br>
+![Description](tila.png)
+<br>
+<br>
+<br>
+![Description](ajo.png)
+<br>
 
 
 
 https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers <br>
+https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/
 https://stackoverflow.com/questions/18878117/using-vagrant-to-run-virtual-machines-with-desktop-environment <br>
