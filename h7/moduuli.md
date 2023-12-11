@@ -70,7 +70,7 @@ Seuraavaksi tarkistus apassi koneelta onko Firefox selain ja apache2 asennettuna
 ![Description](firefox.png)
 <br>
 <br>
-Loin manuaalisesti Microalla don käyttäjällä /home/don/public_html/index.html sivun ja katsotaan selaimella näkyykö se.<br>
+Loin manuaalisesti Microlla don käyttäjällä /home/don/public_html/index.html sivun ja katsotaan selaimella näkyykö se.<br>
 <br>
 ![Description](testi.png)
 <br>
