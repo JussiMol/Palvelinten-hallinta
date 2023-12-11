@@ -53,10 +53,10 @@ Master koneella avaimien hyväksyminen 'sudo salt-key -A'
 <br>
 <br>
 Luon ensimmäiseksi vanhoja muistiinpanojani sekä Tero Karvisen <a href="https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/">Apache PFS esimerkkiä</a> hyödyntäen top.sls ja tila.sls tiedostot masterin /srv/salt hakemistoon sekä itse hakemiston. <br>
-Tilan ajaminen komennolla 'sudo salt '*' state.apply'<br>
 <br>
 ![Description](tila2.png)
 <br>
+Tilan ajaminen komennolla 'sudo salt '*' state.apply'<br>
 Kuva otettu toisesta ajosta, jotta kaikki saadaan nätisti yhteen kuvaan. Tilan ajaminen on onnistunut ilman virheitä, niistä tulisi ilmoitukset kunkin epäonnistuneen kohdan yhteydessä. <br>
 Muutokset ilmoitettaisiin myös niissä kohdissa, joissa muutoksia tehdään. <br>
 Succeeded: 6 perässä lukisi (changed:(numero)) riippuen kuinka monta muutosta tapahtuu. <br>
