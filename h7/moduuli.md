@@ -89,7 +89,6 @@ Haun päällimmäisenä oli <a href="https://www.geeksforgeeks.org/best-linux-de
 Päädyin käyttämään kyseistä ympäristöä koska siitä puhuttiin laitteistolle kevyenä ja käyttäjäystävällisenä. <br>
 Tarkistin valmiilta Linux virtuaalikoneelta löytyykö tuo paketinhallinnasta. <br>
 'sudo apt search xfce' ja sieltä löytyi metapaketti ja kaikki liitännäiset. <br>
-Päätös valinnalle oli helppo tehdä. <br>
 ### Kotitehtävät
 https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h1/Viisikko.md <br>
 https://github.com/JussiMol/Palvelinten-hallinta/blob/main/h2/Karjaa.md <br>
