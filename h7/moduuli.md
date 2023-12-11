@@ -65,7 +65,7 @@ Succeeded: 6 perässä lukisi (changed:(numero)) riippuen kuinka monta muutosta 
 ![Description](ajo2.png)
 <br>
 <br>
-Seuraavaksi tarkistus apassi koneelta onko Firefox selain ja apache2 pyörimässä. <br>
+Seuraavaksi tarkistus apassi koneelta onko Firefox selain ja apache2 asennettuna. <br>
 <br>
 ![Description](firefox.png)
 <br>
