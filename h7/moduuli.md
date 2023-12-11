@@ -52,7 +52,7 @@ Master koneella avaimien hyväksyminen 'sudo salt-key -A'
 ![Description](avain.png)
 <br>
 <br>
-Luon ensimmäiseksi vanhoja muistiinpanojani sekä Tero Karvisen <a href="https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/">Apache PFS esimerkkiä</a> hyödyntäen top.sls ja tila.sls tiedostot masterin /srv/salt hakemistoon. <br>
+Luon ensimmäiseksi vanhoja muistiinpanojani sekä Tero Karvisen <a href="https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/">Apache PFS esimerkkiä</a> hyödyntäen top.sls ja tila.sls tiedostot masterin /srv/salt hakemistoon sekä itse hakemiston. <br>
 Tilan ajaminen komennolla 'sudo salt '*' state.apply'<br>
 <br>
 ![Description](tila2.png)
