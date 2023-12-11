@@ -20,12 +20,11 @@ Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa
 <br>
 Mikäli koneita olisi enemmän niin don luotaisiin jokaiselle minionille. <br>
 Käyttäjien hallinnointiin virkistin muistia <a href="https://www.freecodecamp.org/news/how-to-manage-users-in-linux">FreeCodeCampin</a> linux artikkelista. <br>
+Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
 <br>
 <br>
 ![Description](vagrant3.png)
 <br> 
-<br>
-Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
 <br>
 Puran hieman omia lisäyksiä auki. <br>
  useradd - käyttäjänlisäys<br>
