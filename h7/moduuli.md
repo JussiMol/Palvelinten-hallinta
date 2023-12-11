@@ -56,6 +56,13 @@ Luon ensimmäiseksi vanhoja muistiinpanojani sekä Tero Karvisen <a href="https:
 <br>
 ![Description](tila2.png)
 <br>
+<br>
+Tila.sls osat. <br>
+apache2 / firefox-esr / micro - pakettien asennus. <br>
+apassi - don käyttäjälle public_html hakemiston luonti ja sen käyttöoikeuksien määrittäminen. <br>
+a2enmod userdir - otetaan apachen vakiotiedosto userdir.conf käyttöön joka mahdollistaa kotihakemistosta html sivujen käyttämisen. <br>
+apache2service - pitää palvelun päällä ja seuraa muutoksia userdir.conf tiedostossa. Tarpeen mukaan käynnistää apachen uudestaan. <br>
+<br>
 Tilan ajaminen komennolla 'sudo salt '*' state.apply'<br>
 Kuva otettu toisesta tilatiedoston ajokerrasta, jotta kaikki saadaan nätisti yhteen kuvaan.<br> 
 Tilan ajaminen on onnistunut ilman virheitä, niistä tulisi ilmoitukset kunkin epäonnistuneen kohdan yhteydessä. <br>
