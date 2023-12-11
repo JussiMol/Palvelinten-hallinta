@@ -85,9 +85,9 @@ Virtuaalikone ilman xfce4 työpöytäympäristöä. Kuva otettu rakentamis/ongel
 <br>
 <br>
 xfce4 on löydetty Googlesta haulla linux desktop environments. <br>
-Haun päällimmäisenä oli <a href="https://www.geeksforgeeks.org/best-linux-desktop-environments/">Geeksforgeeks</a> artikkeli linux työpöytäympäristöistä. <br>
+Haun päällimmäisenä oli <a href="https://www.geeksforgeeks.org/best-linux-desktop-environments/">GeeksforGeeks</a> artikkeli Linux työpöytäympäristöistä. <br>
 Päädyin käyttämään kyseistä ympäristöä koska siitä puhuttiin laitteistolle kevyenä ja käyttäjäystävällisenä. <br>
-Tarkistin valmiilta linux virtuaalikoneelta löytyykö tuo paketinhallinnasta. <br>
+Tarkistin valmiilta Linux virtuaalikoneelta löytyykö tuo paketinhallinnasta. <br>
 'sudo apt search xfce' ja sieltä löytyi metapaketti ja kaikki liitännäiset. <br>
 Päätös valinnalle oli helppo tehdä. <br>
 ### Kotitehtävät
