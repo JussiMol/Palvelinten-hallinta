@@ -46,7 +46,7 @@ Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don k
 <br>
 <br>
 Kirjautuminen onnistuu, siirryn työskentelemään isäntäkoneen komentokehotteeseen masterille ssh-yhteydellä. <br>
-Master koneella avaimien hyväksyminen 'sudo salt-key -A'
+Master koneella testi onko salt asennettu ja avaimien hyväksyminen 'sudo salt-key -A'
 <br>
 <br>
 ![Description](avain.png)
