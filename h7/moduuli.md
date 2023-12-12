@@ -30,12 +30,13 @@ Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.co
 Puran hieman omia lisäyksiä auki. <br>
  useradd - käyttäjänlisäys<br>
  (-m) luo käyttäjän kotihakemiston<br>
- (-c $full_name) lisää käyttäjän käyttäjätiedostoon ja se poimii arvoksi edellä mainitun "Don Devaaja"<br>
+ (-c $full_name) määrittää käyttäjän koko nimen "Don Devaaja"<br>
  (-s /bin/bash) määrittää käyttäjän oletuskomentotulkin<br>
  $username määrittää käyttäjänimen. <br>
  echo"$username:$password" | sudo chpasswd - komento päivittää käyttäjän salasanan ylempänä annetulla "testisalis" arvolla. <br>
  sudo usermod -aG sudo "$username" - lisätään "don" ryhmään sudo. <br>
  Käyttäjän lisäykseen saatu vinkkejä kaverilta, joka on Linuxin kanssa tekemisissä päivittäin. <br>
+ Osien selitykset poimittu 'man useradd' manuaalisivuilta. <br>
  
  <br>
 Ympäristön käyttöönotto 'vagrant up' komennolla. <br>
