@@ -8,15 +8,13 @@ OS: Windows 10 Home 64-bit<br>
 CPU: AMD Ryzen 5 5600x 6-core<br>
 RAM: 16Gb<br>
 #### Master kone. <br>
-Debian 11 kone salt-master asennettuna provisioinnin yhteydessä.<br>
+Debian 11 kone salt-masterilla asennuksen yhteydessä.<br>
 #### Debian 11 kone <br>
 Minion shell skriptissä asennetaan salt-minion.<br>
 Asennetaan xfce4 joka on <a href="https://www.xfce.org/">kevyt työpöytäympäristö</a>. <br>
 Lisätään käyttäjä don sudo oikeuksilla. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
 <br>
-***Miksi lisätä käyttäjä koneiden luonnin aikana eikä tilatiedostolla?*** <br>
-***Olen tehnyt ennenkin tilatiedostolla käyttäjän luomisen, halusin kokeilla muuta lähestymistapaa.*** <br>
 <br>
 Mikäli koneita olisi enemmän niin don luotaisiin jokaiselle minionille. <br>
 Käyttäjien hallinnointiin virkistin muistia <a href="https://www.freecodecamp.org/news/how-to-manage-users-in-linux">FreeCodeCampin</a> linux artikkelista. <br>
