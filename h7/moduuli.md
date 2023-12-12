@@ -88,7 +88,7 @@ Nyt on luotu ympäristö tarvittavilla sovelluksilla sekä käyttäjällä verkk
 Mitä idempotenssiin tulee niin tässä tapauksessa tarvittavien ohjelmien olemassaolo, sekä käyttäjän mahdollisuus luoda omia kotisivuja ovat se tila mitä halutaan pitää yllä. <br>
 Mielestäni tavoite on saavutettu. Automaatiolla rakennettiin ympäristö, joka mahdollistaa manuaalisen työskentelyn ja testauksen. <br>
 <br>
-Virtuaalikone ilman xfce4 työpöytäympäristöä. Kuva otettu rakentamis/ongelmanratkaisu vaiheesta. <br>
+Virtuaalikone ilman työpöytäympäristöä. Kuva otettu rakentamis/ongelmanratkaisu vaiheesta. <br>
 <br>
 ![Description](gui.png)
 <br>
