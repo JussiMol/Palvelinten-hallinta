@@ -15,7 +15,6 @@ Asennetaan xfce4 joka on <a href="https://www.xfce.org/">kevyt työpöytäympär
 Lisätään käyttäjä don sudo oikeuksilla. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
 <br>
-<br>
 Mikäli koneita olisi enemmän niin don luotaisiin jokaiselle minionille. <br>
 Käyttäjien hallinnointiin virkistin muistia <a href="https://www.freecodecamp.org/news/how-to-manage-users-in-linux">FreeCodeCampin</a> linux artikkelista. <br>
 <br>
