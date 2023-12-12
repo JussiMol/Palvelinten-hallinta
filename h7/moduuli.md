@@ -10,7 +10,7 @@ RAM: 16Gb<br>
 #### Herra <br>
 Debian bullseye 11 kone salt-masterilla asennuksen yhteydessä.<br>
 #### Orja <br>
-Debian bullseye 11 
+Debian bullseye 11 <br>
 Minion shell skriptissä asennetaan salt-minion.<br>
 Asennetaan xfce4 joka on <a href="https://www.xfce.org/">kevyt työpöytäympäristö</a>. <br>
 Lisätään käyttäjä don sudo oikeuksilla. <br>
