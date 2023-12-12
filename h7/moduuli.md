@@ -24,6 +24,8 @@ Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.co
 ![Description](vagrant3.png)
 <br> 
 <br>
+***Miksi lisätä käyttäjä koneiden luonnin aikana eikä tilatiedostolla?*** <br>
+***Olen tehnyt ennenkin tilatiedostolla käyttäjän luomisen, halusin kokeilla muuta lähestymistapaa.*** <br>
 Puran hieman omia lisäyksiä auki. <br>
  useradd - käyttäjänlisäys<br>
  (-m) luo käyttäjän kotihakemiston<br>
