@@ -26,7 +26,7 @@ Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.co
 <br> 
 <br>
 ***Miksi lisätä käyttäjä provisioinnissa eikä tilatiedostolla?*** <br>
-***Tiloilla käyttäjien hallinta on tuttua, halusin kokeilla muuta lähestymistapaa.*** <br>
+***user.present/absent käyttäjien hallinta on tuttua, halusin kokeilla muuta lähestymistapaa.*** <br>
 <br>
 Puran hieman omia lisäyksiä auki. <br>
  useradd - käyttäjänlisäys<br>
