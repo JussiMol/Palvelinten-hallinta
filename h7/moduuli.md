@@ -88,7 +88,7 @@ Loin manuaalisesti Microlla don käyttäjällä /home/don/public_html/index.html
 <br>
 <br>
 Nyt on luotu ympäristö tarvittavilla sovelluksilla sekä käyttäjällä verkkosivujen luomiseen. <br>
-Git olisi ollut hyvä lisä näin jälkiviisaana. <br>
+Git ja virtualbox guest additions olisi ollut hyvä lisä näin jälkiviisaana. <br>
 Mitä idempotenssiin tulee niin tässä tapauksessa tarvittavien ohjelmien olemassaolo, sekä käyttäjän mahdollisuus luoda omia kotisivuja ovat se tila mitä halutaan pitää yllä. <br>
 Mielestäni tavoite on saavutettu. Automaatiolla rakennettiin ympäristö, joka mahdollistaa manuaalisen työskentelyn ja testauksen. <br>
 <br>
