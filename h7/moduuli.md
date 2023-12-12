@@ -9,7 +9,8 @@ CPU: AMD Ryzen 5 5600x 6-core<br>
 RAM: 16Gb<br>
 #### Master kone. <br>
 Debian 11 kone salt-masterilla asennuksen yhteydessä.<br>
-#### Debian 11 kone <br>
+#### Minion kone <br>
+Debian 11 
 Minion shell skriptissä asennetaan salt-minion.<br>
 Asennetaan xfce4 joka on <a href="https://www.xfce.org/">kevyt työpöytäympäristö</a>. <br>
 Lisätään käyttäjä don sudo oikeuksilla. <br>
