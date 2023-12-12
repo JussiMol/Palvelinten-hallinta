@@ -37,7 +37,6 @@ Puran hieman omia lisäyksiä auki. <br>
  sudo usermod -aG sudo "$username" - lisätään "don" ryhmään sudo. <br>
  Käyttäjän lisäykseen saatu vinkkejä kaverilta, joka on Linuxin kanssa tekemisissä päivittäin. <br>
  Osien selitykset poimittu 'man useradd' manuaalisivuilta. <br>
- 
  <br>
 Ympäristön käyttöönotto 'vagrant up' komennolla. <br>
 Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don käyttäjällä sekä sudo oikeudet. <br>
