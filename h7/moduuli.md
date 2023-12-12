@@ -32,7 +32,7 @@ Puran hieman omia lisäyksiä auki. <br>
  (-m) luo käyttäjän kotihakemiston<br>
  (-c $full_name) määrittää käyttäjän koko nimen "Don Devaaja"<br>
  (-s /bin/bash) määrittää käyttäjän oletuskomentotulkin<br>
- $username määrittää käyttäjänimen. <br>
+ $username määrittää käyttäjän joka lisätään järjestelmään. <br>
  echo"$username:$password" | sudo chpasswd - komento päivittää käyttäjän salasanan ylempänä annetulla "testisalis" arvolla. <br>
  sudo usermod -aG sudo "$username" - lisätään "don" ryhmään sudo. <br>
  Käyttäjän lisäykseen saatu vinkkejä kaverilta, joka on Linuxin kanssa tekemisissä päivittäin. <br>
