@@ -36,6 +36,7 @@ Puran hieman omia lisäyksiä auki. <br>
  $username määrittää käyttäjän joka lisätään järjestelmään. <br>
  echo"$username:$password" | sudo chpasswd - komento päivittää käyttäjän salasanan ylempänä annetulla "testisalis" arvolla. <br>
  sudo usermod -aG sudo "$username" - lisätään "don" ryhmään sudo. <br>
+ <br>
  Käyttäjän lisäykseen saatu vinkkejä kaverilta, joka on Linuxin kanssa tekemisissä päivittäin. <br>
  Osien selitykset poimittu 'man useradd' manuaalisivuilta. <br>
  <br>
