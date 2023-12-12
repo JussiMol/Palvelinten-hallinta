@@ -16,7 +16,7 @@ Asennetaan xfce4 joka on <a href="https://www.xfce.org/">kevyt työpöytäympär
 Lisätään käyttäjä don sudo oikeuksilla. <br>
 Koneelle asennetaan graafinen käyttöliittymä sekä enemmän prosessointitehoa ja RAM muistia. <br>
 <br>
-Mikäli koneita olisi enemmän niin don luotaisiin jokaiselle minionille. Harkitse teetkö näin vai user.present tyylillä. <br>
+Mikäli koneita olisi enemmän niin don luotaisiin jokaiselle minionille. Harkitse teetkö näin vai user.present funktiolla. <br>
 <br>
 Käyttäjien hallinnointiin virkistin muistia <a href="https://www.freecodecamp.org/news/how-to-manage-users-in-linux">FreeCodeCampin</a> linux artikkelista. <br>
 Vagrant tiedostoon on saatu pohja Tero Karvisen <a href="https://terokarvinen.com/2023/salt-vagrant/#ready-made-Vagrantfile-for-three-computers">Vagrant artikkelista</a>. Muokkasin tiedostoa hieman ja tein omat lisäykset. <br>
