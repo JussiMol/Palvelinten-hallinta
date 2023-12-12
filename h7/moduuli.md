@@ -35,7 +35,8 @@ Puran hieman omia lisäyksiä auki. <br>
  $username määrittää käyttäjänimen. <br>
  echo"$username:$password" | sudo chpasswd - komento päivittää käyttäjän salasanan ylempänä annetulla "testisalis" arvolla. <br>
  sudo usermod -aG sudo "$username" - lisätään "don" ryhmään sudo. <br>
- Tähän osioon on saatu myös vinkkejä kaverilta, joka on Linuxin kanssa tekemisissä päivittäin. <br>
+ Käyttäjän lisäykseen saatu vinkkejä kaverilta, joka on Linuxin kanssa tekemisissä päivittäin. <br>
+ 
  <br>
 Ympäristön käyttöönotto 'vagrant up' komennolla. <br>
 Asennuksen jälkeen testataan ensimmäiseksi apassi koneelle kirjautuminen don käyttäjällä sekä sudo oikeudet. <br>
